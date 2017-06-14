@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"保险方案页面--家庭标准计划v1_2.html",
-  "generationDate":new Date(1497427771480.84),
+  "generationDate":new Date(1497434207340.44),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -55,7 +55,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/保险方案页面--家庭标准计划v1_2/u0.png"}},
+            "normal~":"images/保险方案页面--家庭标准计划v1_2/regen/u0.png"}},
 {
           "id":"99a8b157a26b4cafb6eb53a26a131b23",
           "label":"",
@@ -88,7 +88,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/保险方案页面--家庭标准计划v1_2/u2.png"}},
+            "normal~":"images/保险方案页面--家庭标准计划v1_2/regen/u2.png"}},
 {
           "id":"85d25cbe9a0f4cb29340afcb3c592b4f",
           "label":"",
@@ -133,7 +133,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/完善被保人信息v1_1/u4.png"}},
+            "normal~":"images/保险方案页面--家庭标准计划v1_2/regen/u4.png"}},
 {
           "id":"0ca0bf1d4f604573b0f415f42dbc2b99",
           "label":"",
@@ -223,7 +223,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/完善被保人信息v1_1/u4.png"}},
+            "normal~":"images/保险方案页面--家庭标准计划v1_2/regen/u4.png"}},
 {
           "id":"ad02d5b6e4a94312bbc99a65a2052d9c",
           "label":"",
@@ -245,7 +245,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/保险方案页面--家庭标准计划v1_2/regen/u10_line.png"}},
 {
           "id":"5348c242167a42609240ded049ec7b13",
           "label":"",
@@ -314,7 +314,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/保险方案页面--家庭标准计划v1_2/regen/u10_line.png"}},
 {
           "id":"5ed97abf6a6e4b54b3be2c2d8a8bc428",
           "label":"",
@@ -373,7 +373,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/保险方案页面--家庭标准计划v1_2/regen/u10_line.png"}},
 {
           "id":"659e37ef32c64fb3a45a40737d3be693",
           "label":"",
@@ -539,7 +539,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/保险方案页面--家庭标准计划v1_2/regen/u10_line.png"}},
 {
           "id":"ee34ac3725ba41208d0a3d7b537f5bca",
           "label":"",
@@ -711,7 +711,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u30_line.png"}},
+            "line~":"images/保险方案页面--家庭标准计划v1_2/regen/u34_line.png"}},
 {
           "id":"9e44cc3f3b49495dbaa08d004410b9c5",
           "label":"",
@@ -735,7 +735,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u30_line.png"}},
+            "line~":"images/保险方案页面--家庭标准计划v1_2/regen/u34_line.png"}},
 {
           "id":"66ed100fcfa64fb6b51ef86995ef5e7e",
           "label":"",
@@ -817,7 +817,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/完善被保人信息v1_1/u4.png"}},
+            "normal~":"images/保险方案页面--家庭标准计划v1_2/regen/u4.png"}},
 {
           "id":"a68eaf2122b045ed9d6240fbf7613f9f",
           "label":"",
@@ -874,7 +874,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/保险方案页面--家庭标准计划v1_2/u40.png"}},
+            "normal~":"images/保险方案页面--家庭标准计划v1_2/regen/u40.png"}},
 {
           "id":"27989530894441f1b42769055fe12f4e",
           "label":"",
@@ -925,7 +925,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/保险方案页面--家庭标准计划v1_2/u42.png"}},
+            "normal~":"images/保险方案页面--家庭标准计划v1_2/regen/u42.png"}},
 {
           "id":"f44d17d7fc5640c7aaa90ee3404ee9a7",
           "label":"",
@@ -947,7 +947,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/保险方案页面--家庭标准计划v1_2/regen/u10_line.png"}},
 {
           "id":"e2ec6e5414af4668b7a6caf9c79809c9",
           "label":"",
@@ -1039,7 +1039,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/完善被保人信息v1_1/u4.png"}},
+            "normal~":"images/保险方案页面--家庭标准计划v1_2/regen/u4.png"}},
 {
           "id":"d0cd58c814fd4f5595edf34e96c41797",
           "label":"",
@@ -1061,7 +1061,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/保险方案页面--家庭标准计划v1_2/regen/u10_line.png"}},
 {
           "id":"dc46f65b47754c418c413b032e80b7df",
           "label":"",
@@ -1237,7 +1237,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/完善被保人信息v1_1/u38.png"}},
+            "normal~":"images/保险方案页面--家庭标准计划v1_2/regen/u56.png"}},
 {
           "id":"97b2280f06f7470eba9f76d723d257f7",
           "label":"",
@@ -1281,23 +1281,8 @@
                   "color":0x797979}},
               "adaptiveStyles":{
 }}],
-          "interactionMap":{
-            "onClick":{
-              "description":"OnClick",
-              "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 健康告知V1.1",
-                      "target":{
-                        "targetType":"page",
-                        "url":"健康告知v1_1.html",
-                        "includeVariables":true},
-                      "linkType":"current"}]}]}},
-          "tabbable":true,
           "images":{
-            "normal~":"images/完善被保人信息v1_1/u40.png"}},
+            "normal~":"images/保险方案页面--家庭标准计划v1_2/regen/u58.png"}},
 {
           "id":"5eb4a1f0f1d24fcab81286b7ef0b7a99",
           "label":"",
@@ -1552,7 +1537,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/保险方案页面--家庭标准计划v1_2/regen/u10_line.png"}},
 {
           "id":"ce22fcd862b04749b7dd577c5067d380",
           "label":"",
@@ -1619,7 +1604,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/保险方案页面--家庭标准计划v1_2/regen/u10_line.png"}},
 {
           "id":"17a48ec03e5c463782f8923bc30e4d30",
           "label":"",
@@ -1688,7 +1673,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u30_line.png"}},
+            "line~":"images/保险方案页面--家庭标准计划v1_2/regen/u34_line.png"}},
 {
           "id":"c5c7d1f8f36341518a74019212aa3b6a",
           "label":"",
@@ -1712,7 +1697,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u30_line.png"}},
+            "line~":"images/保险方案页面--家庭标准计划v1_2/regen/u34_line.png"}},
 {
           "id":"48861745709c489683d8b843a15af166",
           "label":"",
@@ -1816,7 +1801,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/保险方案页面--家庭标准计划v1_2/regen/u10_line.png"}},
 {
           "id":"71cf652597ff4052a4877f561096499a",
           "label":"",
@@ -2059,7 +2044,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/保险方案页面--家庭标准计划v1_2/regen/u10_line.png"}},
 {
           "id":"e72951f1518349e6a050e5c129bf36d8",
           "label":"",
@@ -2083,7 +2068,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u30_line.png"}},
+            "line~":"images/保险方案页面--家庭标准计划v1_2/regen/u34_line.png"}},
 {
           "id":"0292bd03d0204fb58a0074e6804148e1",
           "label":"",
@@ -2107,7 +2092,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u30_line.png"}},
+            "line~":"images/保险方案页面--家庭标准计划v1_2/regen/u34_line.png"}},
 {
           "id":"1b00010470014ad5ab569564e8de30e5",
           "label":"",
@@ -2131,7 +2116,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u30_line.png"}},
+            "line~":"images/保险方案页面--家庭标准计划v1_2/regen/u34_line.png"}},
 {
           "id":"1db6cb5c663f4919b7096889eb2b4334",
           "label":"",
@@ -2155,7 +2140,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u30_line.png"}},
+            "line~":"images/保险方案页面--家庭标准计划v1_2/regen/u34_line.png"}},
 {
           "id":"a18a5e2427a24555840a3ecc05e61b05",
           "label":"",
@@ -2211,7 +2196,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/完善被保人信息v1_1/u75.png"}},
+                "normal~":"images/保险方案页面--家庭标准计划v1_2/regen/u101.png"}},
 {
               "id":"b219823d37144e66a9e70d968e864536",
               "label":"",
@@ -2258,7 +2243,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/完善被保人信息v1_1/u79.png"}},
+                "normal~":"images/保险方案页面--家庭标准计划v1_2/regen/u105.png"}},
 {
               "id":"d3f832f616d245d09833aac5ea77b1ad",
               "label":"",
@@ -2305,7 +2290,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/完善被保人信息v1_1/u83.png"}},
+                "normal~":"images/保险方案页面--家庭标准计划v1_2/regen/u109.png"}},
 {
               "id":"5412e27433834b2a8ff58013ec3ddecb",
               "label":"",
@@ -2360,7 +2345,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/完善被保人信息v1_1/u77.png"}},
+                "normal~":"images/保险方案页面--家庭标准计划v1_2/regen/u103.png"}},
 {
               "id":"0f7600fd7bb34be7aaf9c9ffdc52467f",
               "label":"",
@@ -2415,7 +2400,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/完善被保人信息v1_1/u81.png"}},
+                "normal~":"images/保险方案页面--家庭标准计划v1_2/regen/u107.png"}},
 {
               "id":"db00a0dbe2a74e00919775261ebcb80d",
               "label":"",
@@ -2470,7 +2455,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/完善被保人信息v1_1/u85.png"}}]},
+                "normal~":"images/保险方案页面--家庭标准计划v1_2/regen/u111.png"}}]},
 {
           "id":"16ba3e7181894a83a42796f3e7102a4d",
           "label":"",
@@ -2492,7 +2477,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/保险方案页面--家庭标准计划v1_2/regen/u10_line.png"}},
 {
           "id":"4f970f811d8a41f3a7468e7ec9e14b7c",
           "label":"",
@@ -2548,7 +2533,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/完善被保人信息v1_1/u89.png"}},
+                "normal~":"images/保险方案页面--家庭标准计划v1_2/regen/u115.png"}},
 {
               "id":"456b897180c942398819018166856a0e",
               "label":"",
@@ -2595,7 +2580,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/保险方案页面--家庭标准计划v1_2/u119.png"}},
+                "normal~":"images/保险方案页面--家庭标准计划v1_2/regen/u119.png"}},
 {
               "id":"c8d8d7aec1054088ac20b8485325b9ef",
               "label":"",
@@ -2650,7 +2635,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/完善被保人信息v1_1/u91.png"}},
+                "normal~":"images/保险方案页面--家庭标准计划v1_2/regen/u117.png"}},
 {
               "id":"b3127403f2c046cbb374ed141fe16f66",
               "label":"",
@@ -2705,7 +2690,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/保险方案页面--家庭标准计划v1_2/u121.png"}}]},
+                "normal~":"images/保险方案页面--家庭标准计划v1_2/regen/u121.png"}}]},
 {
           "id":"77f517e302fb49949b448c52e74b3c70",
           "label":"",
@@ -2746,7 +2731,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/完善被保人信息v1_1/u97.png"}},
+            "normal~":"images/保险方案页面--家庭标准计划v1_2/regen/u123.png"}},
 {
           "id":"0267ce81aa6647c0a8d8839f863c5069",
           "label":"",
@@ -2893,7 +2878,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/保险方案页面--家庭标准计划v1_2/u40.png"}},
+            "normal~":"images/保险方案页面--家庭标准计划v1_2/regen/u40.png"}},
 {
           "id":"a84a41a9ba9e49ecaf4564a8fedf9c8e",
           "label":"",
@@ -2944,7 +2929,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/保险方案页面--家庭标准计划v1_2/u42.png"}},
+            "normal~":"images/保险方案页面--家庭标准计划v1_2/regen/u42.png"}},
 {
           "id":"dd06a53e5d19436481374cc321222a13",
           "label":"",
@@ -2966,7 +2951,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/保险方案页面--家庭标准计划v1_2/regen/u10_line.png"}},
 {
           "id":"73b65126560d4cbcb6e33ec27e9fac9e",
           "label":"",
@@ -3033,7 +3018,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/保险方案页面--家庭标准计划v1_2/regen/u10_line.png"}},
 {
           "id":"bb4caad22a2f4216a1e463e12b859b73",
           "label":"",
@@ -3102,7 +3087,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u30_line.png"}},
+            "line~":"images/保险方案页面--家庭标准计划v1_2/regen/u34_line.png"}},
 {
           "id":"70853790eef24ea2a25efffe5b9a1d51",
           "label":"",
@@ -3126,7 +3111,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u30_line.png"}},
+            "line~":"images/保险方案页面--家庭标准计划v1_2/regen/u34_line.png"}},
 {
           "id":"d674379155a74a12af9baeebcc16c4ef",
           "label":"",
@@ -3230,7 +3215,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/保险方案页面--家庭标准计划v1_2/regen/u10_line.png"}},
 {
           "id":"2df5f739a99b47a59e676802683b075d",
           "label":"",
@@ -3305,7 +3290,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/完善被保人信息v1_1/u97.png"}},
+            "normal~":"images/保险方案页面--家庭标准计划v1_2/regen/u123.png"}},
 {
           "id":"bfa7af093af54837bcb3579409c1622b",
           "label":"",
@@ -3452,7 +3437,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/保险方案页面--家庭标准计划v1_2/u40.png"}},
+            "normal~":"images/保险方案页面--家庭标准计划v1_2/regen/u40.png"}},
 {
           "id":"458865f1547741afb8f836ab7a2acf8d",
           "label":"",
@@ -3503,7 +3488,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/保险方案页面--家庭标准计划v1_2/u42.png"}},
+            "normal~":"images/保险方案页面--家庭标准计划v1_2/regen/u42.png"}},
 {
           "id":"8d79aad1562c4c549355d0f5cb70a740",
           "label":"",
@@ -3525,7 +3510,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/保险方案页面--家庭标准计划v1_2/regen/u10_line.png"}},
 {
           "id":"1f2964da70724a88aa978ca55321ed15",
           "label":"",
@@ -3592,7 +3577,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/保险方案页面--家庭标准计划v1_2/regen/u10_line.png"}},
 {
           "id":"38c98c23f4624787a33f20f7112db817",
           "label":"",
@@ -3661,7 +3646,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u30_line.png"}},
+            "line~":"images/保险方案页面--家庭标准计划v1_2/regen/u34_line.png"}},
 {
           "id":"488549f3a89d4e0797cd2b26cce1bf63",
           "label":"",
@@ -3685,7 +3670,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u30_line.png"}},
+            "line~":"images/保险方案页面--家庭标准计划v1_2/regen/u34_line.png"}},
 {
           "id":"10bf7c7ff8564c7287cec6139e5c7f4f",
           "label":"",
@@ -3789,7 +3774,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/保险方案页面--家庭标准计划v1_2/regen/u10_line.png"}},
 {
           "id":"0589219998a24cf3a38601048c6b31bd",
           "label":"",
@@ -3864,7 +3849,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/完善被保人信息v1_1/u97.png"}},
+            "normal~":"images/保险方案页面--家庭标准计划v1_2/regen/u123.png"}},
 {
           "id":"19df4c03cb3542dd9799d0cc3aa23dec",
           "label":"",
@@ -3931,7 +3916,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/保险方案页面--家庭标准计划v1_2/regen/u10_line.png"}},
 {
           "id":"db64d2e601474e758d5a39d2881e8ee4",
           "label":"",
@@ -3986,7 +3971,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/保险方案页面--家庭标准计划v1_2/u178.png"}},
+            "normal~":"images/保险方案页面--家庭标准计划v1_2/regen/u178.png"}},
 {
           "id":"2fd56c46e0104f4b9cf345192e4751df",
           "label":"",
@@ -4056,7 +4041,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/保险方案页面--家庭标准计划v1_2/u182_line.png"}},
+            "line~":"images/保险方案页面--家庭标准计划v1_2/regen/u182_line.png"}},
 {
           "id":"a767fac919304680a7967883194faf9f",
           "label":"",
@@ -4080,7 +4065,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/保险方案页面--家庭标准计划v1_2/u182_line.png"}},
+            "line~":"images/保险方案页面--家庭标准计划v1_2/regen/u182_line.png"}},
 {
           "id":"eddf8799c4e749feb07f6823d802061a",
           "label":"",
@@ -4104,7 +4089,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/保险方案页面--家庭标准计划v1_2/u184_line.png"}},
+            "line~":"images/保险方案页面--家庭标准计划v1_2/regen/u184_line.png"}},
 {
           "id":"62b19d39cc36478f9cbcad0f20382cca",
           "label":"",
@@ -4128,7 +4113,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/保险方案页面--家庭标准计划v1_2/u184_line.png"}},
+            "line~":"images/保险方案页面--家庭标准计划v1_2/regen/u184_line.png"}},
 {
           "id":"1b8db2fdb3d14d77a06032ba349d6c6c",
           "label":"",
@@ -4187,7 +4172,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/保险方案页面--家庭标准计划v1_2/regen/u10_line.png"}},
 {
           "id":"2b5e6b65ec8244fd894ff40441f1b725",
           "label":"",
@@ -4256,7 +4241,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u30_line.png"}},
+            "line~":"images/保险方案页面--家庭标准计划v1_2/regen/u34_line.png"}},
 {
           "id":"8beb3b8fb112400b8c0b9859ee134350",
           "label":"",
@@ -4280,7 +4265,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u30_line.png"}},
+            "line~":"images/保险方案页面--家庭标准计划v1_2/regen/u34_line.png"}},
 {
           "id":"006d07fdf0c94fdc8eaa2133e51ac27c",
           "label":"",
@@ -4339,7 +4324,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/保险方案页面--家庭标准计划v1_2/regen/u10_line.png"}},
 {
           "id":"a7df851d84514fe3b16c05cf942a7dbb",
           "label":"",
@@ -4408,7 +4393,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u30_line.png"}},
+            "line~":"images/保险方案页面--家庭标准计划v1_2/regen/u34_line.png"}},
 {
           "id":"8c45f6eb0fb44a9189c27b3feb9d829a",
           "label":"",
@@ -4432,7 +4417,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u30_line.png"}},
+            "line~":"images/保险方案页面--家庭标准计划v1_2/regen/u34_line.png"}},
 {
           "id":"b7e54a98b5dd4791b165fb54c1caa2a5",
           "label":"",
@@ -4493,7 +4478,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/保险方案页面--家庭标准计划v1_2/u184_line.png"}},
+            "line~":"images/保险方案页面--家庭标准计划v1_2/regen/u184_line.png"}},
 {
           "id":"d938f674aec248709e33c8000c83ff5c",
           "label":"",
@@ -4517,7 +4502,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/保险方案页面--家庭标准计划v1_2/u184_line.png"}},
+            "line~":"images/保险方案页面--家庭标准计划v1_2/regen/u184_line.png"}},
 {
           "id":"2fd4df966b094a0c803c8dad7b40c242",
           "label":"",
@@ -4551,6 +4536,56 @@
                   "height":19}},
               "adaptiveStyles":{
 }}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"fad7a18d3f43435392ae9b83e870ecda",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "opacity":"0",
+            "location":{
+              "x":206,
+              "y":2074},
+            "size":{
+              "width":208,
+              "height":49}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5d09348b02d74ee1bdc9e6dd19abb89c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "opacity":"0",
+                "location":{
+                  "x":206,
+                  "y":2074},
+                "size":{
+                  "width":208,
+                  "height":49}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 健康告知V1.1",
+                      "target":{
+                        "targetType":"page",
+                        "url":"健康告知v1_1.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
           "images":{
             "normal~":"resources/images/transparent.gif"}}]}},
   "masters":{
@@ -4967,4 +5002,8 @@
     "2fd4df966b094a0c803c8dad7b40c242":{
       "scriptId":"u204"},
     "3cb7b66d567b4e8c9a1549d1172f9a4a":{
-      "scriptId":"u205"}}});
+      "scriptId":"u205"},
+    "fad7a18d3f43435392ae9b83e870ecda":{
+      "scriptId":"u206"},
+    "5d09348b02d74ee1bdc9e6dd19abb89c":{
+      "scriptId":"u207"}}});

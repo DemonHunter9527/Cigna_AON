@@ -3262,3 +3262,26 @@
   width:33px;
   white-space:nowrap;
 }
+#u206 {
+  position:absolute;
+  left:206px;
+  top:2074px;
+  width:208px;
+  height:49px;
+  opacity:0;
+}
+#u206_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:208px;
+  height:49px;
+}
+#u207 {
+  position:absolute;
+  left:2px;
+  top:16px;
+  width:204px;
+  visibility:hidden;
+  word-wrap:break-word;
+}

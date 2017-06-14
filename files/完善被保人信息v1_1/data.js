@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"完善被保人信息v1_1.html",
-  "generationDate":new Date(1497427771079.84),
+  "generationDate":new Date(1497434216521.44),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -55,7 +55,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/完善被保人信息v1_1/u0.png"}},
+            "normal~":"images/完善被保人信息v1_1/regen/u0.png"}},
 {
           "id":"1ab048dbbf1a4139b348c9ef932089d9",
           "label":"",
@@ -145,7 +145,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/完善被保人信息v1_1/u4.png"}},
+            "normal~":"images/完善被保人信息v1_1/regen/u4.png"}},
 {
           "id":"543314b75ba4400ebe9e0b7d67947254",
           "label":"",
@@ -167,7 +167,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"5be2ad091f6041d093581b8b7488a64f",
           "label":"",
@@ -236,7 +236,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"3a96e28578074790998abcd5528a1cbe",
           "label":"",
@@ -295,7 +295,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"89f4a0608a894d9f90a82d155fe7a2be",
           "label":"",
@@ -465,7 +465,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"2a4323d7bcef4615a907e696cbe7118e",
           "label":"",
@@ -637,7 +637,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u30_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u30_line.png"}},
 {
           "id":"992b79a51d8f4ecdb9127690f126a998",
           "label":"",
@@ -661,7 +661,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u30_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u30_line.png"}},
 {
           "id":"c0d81bd32cf54e3cb6c22f0f6a2aed15",
           "label":"",
@@ -743,7 +743,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/完善被保人信息v1_1/u4.png"}},
+            "normal~":"images/完善被保人信息v1_1/regen/u4.png"}},
 {
           "id":"79af2d7c0db24d5c9d63823fa788b4b1",
           "label":"",
@@ -827,7 +827,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/完善被保人信息v1_1/u38.png"}},
+            "normal~":"images/完善被保人信息v1_1/regen/u38.png"}},
 {
           "id":"f1e6c4812ad948a3b1438a1ee2eec4d3",
           "label":"",
@@ -871,23 +871,8 @@
                   "color":0x797979}},
               "adaptiveStyles":{
 }}],
-          "interactionMap":{
-            "onClick":{
-              "description":"OnClick",
-              "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 订单查询V1.1",
-                      "target":{
-                        "targetType":"page",
-                        "url":"订单查询v1_1.html",
-                        "includeVariables":true},
-                      "linkType":"current"}]}]}},
-          "tabbable":true,
           "images":{
-            "normal~":"images/完善被保人信息v1_1/u40.png"}},
+            "normal~":"images/完善被保人信息v1_1/regen/u40.png"}},
 {
           "id":"94475b7ebfb8449fbd420e9a219bb4a5",
           "label":"",
@@ -1142,7 +1127,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"a147a22bb583451ebe0a30c86ace4859",
           "label":"",
@@ -1209,7 +1194,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"ac3cf08ce5b3453d8f4d52a40e26d109",
           "label":"",
@@ -1358,7 +1343,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"f3f9c181169442cda2b56289e0d24e58",
           "label":"",
@@ -1493,7 +1478,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"d49c6a79a46840489149b384ebed54ef",
           "label":"",
@@ -1517,7 +1502,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u30_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u30_line.png"}},
 {
           "id":"49353b992dde4e109827a99afbf6ec8d",
           "label":"",
@@ -1541,7 +1526,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u30_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u30_line.png"}},
 {
           "id":"3bf003b1f18243169804b3cbcd5b7da3",
           "label":"",
@@ -1565,7 +1550,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u30_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u30_line.png"}},
 {
           "id":"eeb024c68ea3404292390d4b069953e0",
           "label":"",
@@ -1589,7 +1574,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u30_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u30_line.png"}},
 {
           "id":"90b38a0b052d4e0095b7fcbf6918d558",
           "label":"",
@@ -1645,7 +1630,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/完善被保人信息v1_1/u75.png"}},
+                "normal~":"images/完善被保人信息v1_1/regen/u75.png"}},
 {
               "id":"5a0a697c2660420cac41baa1bff6ba46",
               "label":"",
@@ -1692,7 +1677,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/完善被保人信息v1_1/u79.png"}},
+                "normal~":"images/完善被保人信息v1_1/regen/u79.png"}},
 {
               "id":"c33ec0a894f94bde980f7f32c9527fa4",
               "label":"",
@@ -1739,7 +1724,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/完善被保人信息v1_1/u83.png"}},
+                "normal~":"images/完善被保人信息v1_1/regen/u83.png"}},
 {
               "id":"b340c611ed5c423893bd4340f23a4b97",
               "label":"",
@@ -1794,7 +1779,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/完善被保人信息v1_1/u77.png"}},
+                "normal~":"images/完善被保人信息v1_1/regen/u77.png"}},
 {
               "id":"2b01bb0b03eb4e418368c263e83e4323",
               "label":"",
@@ -1849,7 +1834,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/完善被保人信息v1_1/u81.png"}},
+                "normal~":"images/完善被保人信息v1_1/regen/u81.png"}},
 {
               "id":"9e5d4db6e56042a4ae10c9b404627449",
               "label":"",
@@ -1904,7 +1889,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/完善被保人信息v1_1/u85.png"}}]},
+                "normal~":"images/完善被保人信息v1_1/regen/u85.png"}}]},
 {
           "id":"266ff7441396488db38f337ba20de4ec",
           "label":"",
@@ -1926,7 +1911,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"99e05bc5e988443da89d2a8ef5d3ef50",
           "label":"",
@@ -1982,7 +1967,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/完善被保人信息v1_1/u89.png"}},
+                "normal~":"images/完善被保人信息v1_1/regen/u89.png"}},
 {
               "id":"e71c44ad8c8d4499971cb48909c8e606",
               "label":"",
@@ -2029,7 +2014,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/完善被保人信息v1_1/u93.png"}},
+                "normal~":"images/完善被保人信息v1_1/regen/u93.png"}},
 {
               "id":"b7c301664f964ffab396c1869bd523c0",
               "label":"",
@@ -2084,7 +2069,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/完善被保人信息v1_1/u91.png"}},
+                "normal~":"images/完善被保人信息v1_1/regen/u91.png"}},
 {
               "id":"18979eed3d0043b897085bf58e176901",
               "label":"",
@@ -2139,7 +2124,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/完善被保人信息v1_1/u95.png"}}]},
+                "normal~":"images/完善被保人信息v1_1/regen/u95.png"}}]},
 {
           "id":"a482a344507d4f98982c92e3303ef400",
           "label":"",
@@ -2180,7 +2165,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/完善被保人信息v1_1/u97.png"}},
+            "normal~":"images/完善被保人信息v1_1/regen/u97.png"}},
 {
           "id":"026e12a76cb641738d9fb21adcb3353a",
           "label":"",
@@ -2266,7 +2251,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/完善被保人信息v1_1/u97.png"}},
+            "normal~":"images/完善被保人信息v1_1/regen/u97.png"}},
 {
           "id":"81dc2ee65b3d46f4bb830b0451a09406",
           "label":"",
@@ -2352,7 +2337,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/完善被保人信息v1_1/u97.png"}},
+            "normal~":"images/完善被保人信息v1_1/regen/u97.png"}},
 {
           "id":"be35990020c54fc194bed33d17125024",
           "label":"",
@@ -2419,7 +2404,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"7ee5898b4f664e58a79d5962b6318be5",
           "label":"",
@@ -2503,7 +2488,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"101448ceca5b4bb2a7256c53fca49e03",
           "label":"",
@@ -2759,7 +2744,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"7df818b3286d43f2bbe13ef20f076b2b",
           "label":"",
@@ -2826,7 +2811,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"d213c8ad246a4abdaedca82bee2dfa88",
           "label":"",
@@ -2938,7 +2923,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"247c27cd1f7f4b289a6f7673f785f449",
           "label":"",
@@ -3084,7 +3069,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"b564cc32d3fb49f392ebe7d937858d19",
           "label":"",
@@ -3151,7 +3136,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"7588efa44b8b4e16a1f4bba9d38227ab",
           "label":"",
@@ -3300,7 +3285,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"b214157157fd4af1b8533b56124f2f51",
           "label":"",
@@ -3322,7 +3307,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"b30f29f918e64220bfc895215144bb5a",
           "label":"",
@@ -3406,7 +3391,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"762e91deaaa6492797a49eb5b0d437d4",
           "label":"",
@@ -3662,7 +3647,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"64de28ab0d1d47318f0dda19fde3bb1c",
           "label":"",
@@ -3774,7 +3759,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"fd268b126c3f4df3a85520620a6caa1f",
           "label":"",
@@ -3923,7 +3908,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"fab367baa7b64c07972fd87e59c6f1d1",
           "label":"",
@@ -3990,7 +3975,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"2bfba1d861c04a3587e366c0906ad179",
           "label":"",
@@ -4139,7 +4124,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"59367a4b4015418892a903a554e58c29",
           "label":"",
@@ -4161,7 +4146,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"cc1bb086f0984fe3874458b52fcd5282",
           "label":"",
@@ -4245,7 +4230,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"65d2cd966e2b41dabf5059c8654b117f",
           "label":"",
@@ -4501,7 +4486,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"f1bbd6d9e33847d2b85135f347c2fb79",
           "label":"",
@@ -4613,7 +4598,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"b3c9969bb3f04d61a508c693d18dc7db",
           "label":"",
@@ -4775,7 +4760,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/完善被保人信息v1_1/u4.png"}},
+            "normal~":"images/完善被保人信息v1_1/regen/u4.png"}},
 {
           "id":"dabfd633a4f548a9864809a0edd5efaa",
           "label":"",
@@ -4844,7 +4829,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"d639c76f67754e5f83b789f5004879c1",
           "label":"",
@@ -4973,7 +4958,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"49955dd463474f86b7e48cfa3af5f312",
           "label":"",
@@ -5040,7 +5025,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"63d3ea6eb7f44f77a1a4caba362facc7",
           "label":"",
@@ -5057,7 +5042,57 @@
               "width":279,
               "height":25}},
           "adaptiveStyles":{
-}}]}},
+}},
+{
+          "id":"b559588772b1470bafa4fbb64e2913fe",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "opacity":"0",
+            "location":{
+              "x":206,
+              "y":2158},
+            "size":{
+              "width":208,
+              "height":49}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a8a4a6d0454649bb96b6496f854f4297",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "opacity":"0",
+                "location":{
+                  "x":206,
+                  "y":2158},
+                "size":{
+                  "width":208,
+                  "height":49}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 订单查询V1.1",
+                      "target":{
+                        "targetType":"page",
+                        "url":"订单查询v1_1.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -5534,4 +5569,8 @@
     "6c33af22efe24572882a3baba2dd719d":{
       "scriptId":"u235"},
     "63d3ea6eb7f44f77a1a4caba362facc7":{
-      "scriptId":"u236"}}});
+      "scriptId":"u236"},
+    "b559588772b1470bafa4fbb64e2913fe":{
+      "scriptId":"u237"},
+    "a8a4a6d0454649bb96b6496f854f4297":{
+      "scriptId":"u238"}}});

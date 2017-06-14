@@ -421,3 +421,26 @@
   width:393px;
   word-wrap:break-word;
 }
+#u30 {
+  position:absolute;
+  left:206px;
+  top:711px;
+  width:208px;
+  height:39px;
+  opacity:0;
+}
+#u30_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:208px;
+  height:39px;
+}
+#u31 {
+  position:absolute;
+  left:2px;
+  top:12px;
+  width:204px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
