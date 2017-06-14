@@ -17,10 +17,6 @@
         "type":"Wireframe",
         "url":"保险方案页面--家庭标准计划v1_2.html"},
 {
-        "pageName":"保险方案页面--单人标准计划V1.2",
-        "type":"Wireframe",
-        "url":"保险方案页面--单人标准计划v1_2.html"},
-{
         "pageName":"健康告知V1.1",
         "type":"Wireframe",
         "url":"健康告知v1_1.html"},

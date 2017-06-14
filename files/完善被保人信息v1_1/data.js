@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"完善被保人信息v1_1.html",
-  "generationDate":new Date(1497425224379.84),
+  "generationDate":new Date(1497427065929.84),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -36,9 +36,6 @@
           "styleType":"buttonShape",
           "visible":true,
           "style":{
-            "location":{
-              "x":10,
-              "y":10},
             "size":{
               "width":414,
               "height":2207}},
@@ -52,16 +49,13 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "location":{
-                  "x":10,
-                  "y":10},
                 "size":{
                   "width":414,
                   "height":2207}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/完善被保人信息v1_1/u0.png"}},
+            "normal~":"images/完善被保人信息v1_1/regen/u0.png"}},
 {
           "id":"1ab048dbbf1a4139b348c9ef932089d9",
           "label":"",
@@ -76,8 +70,8 @@
               "color":0xFFFF0000,
               "opacity":1},
             "location":{
-              "x":24,
-              "y":359},
+              "x":14,
+              "y":349},
             "size":{
               "width":85,
               "height":19}},
@@ -98,8 +92,8 @@
                   "color":0xFFFF0000,
                   "opacity":1},
                 "location":{
-                  "x":24,
-                  "y":359},
+                  "x":14,
+                  "y":349},
                 "size":{
                   "width":85,
                   "height":19}},
@@ -118,8 +112,8 @@
               "fillType":"solid",
               "color":0xFFE4E4E4},
             "location":{
-              "x":10,
-              "y":1341},
+              "x":0,
+              "y":1331},
             "size":{
               "width":414,
               "height":13},
@@ -140,8 +134,8 @@
                   "fillType":"solid",
                   "color":0xFFE4E4E4},
                 "location":{
-                  "x":10,
-                  "y":1341},
+                  "x":0,
+                  "y":1331},
                 "size":{
                   "width":414,
                   "height":13},
@@ -151,7 +145,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/完善被保人信息v1_1/u4.png"}},
+            "normal~":"images/完善被保人信息v1_1/regen/u4.png"}},
 {
           "id":"543314b75ba4400ebe9e0b7d67947254",
           "label":"",
@@ -160,8 +154,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":10,
-              "y":1386},
+              "x":0,
+              "y":1376},
             "size":{
               "width":414,
               "height":10},
@@ -173,7 +167,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"5be2ad091f6041d093581b8b7488a64f",
           "label":"",
@@ -189,8 +183,8 @@
               "color":0xFFFF0000,
               "opacity":1},
             "location":{
-              "x":21,
-              "y":1358},
+              "x":11,
+              "y":1348},
             "size":{
               "width":77,
               "height":25}},
@@ -212,8 +206,8 @@
                   "color":0xFFFF0000,
                   "opacity":1},
                 "location":{
-                  "x":21,
-                  "y":1358},
+                  "x":11,
+                  "y":1348},
                 "size":{
                   "width":77,
                   "height":25}},
@@ -229,8 +223,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":10,
-              "y":1429},
+              "x":0,
+              "y":1419},
             "size":{
               "width":414,
               "height":10},
@@ -242,7 +236,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"3a96e28578074790998abcd5528a1cbe",
           "label":"",
@@ -253,8 +247,8 @@
             "fontName":"'华文细黑 Regular', '华文细黑'",
             "fontSize":"14px",
             "location":{
-              "x":24,
-              "y":1403},
+              "x":14,
+              "y":1393},
             "size":{
               "width":71,
               "height":19}},
@@ -271,8 +265,8 @@
                 "fontName":"'华文细黑 Regular', '华文细黑'",
                 "fontSize":"14px",
                 "location":{
-                  "x":24,
-                  "y":1403},
+                  "x":14,
+                  "y":1393},
                 "size":{
                   "width":71,
                   "height":19}},
@@ -288,8 +282,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":10,
-              "y":1473},
+              "x":0,
+              "y":1463},
             "size":{
               "width":414,
               "height":10},
@@ -301,7 +295,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"89f4a0608a894d9f90a82d155fe7a2be",
           "label":"",
@@ -312,8 +306,8 @@
             "fontName":"'华文细黑 Regular', '华文细黑'",
             "fontSize":"14px",
             "location":{
-              "x":24,
-              "y":1448},
+              "x":14,
+              "y":1438},
             "size":{
               "width":71,
               "height":19}},
@@ -330,8 +324,8 @@
                 "fontName":"'华文细黑 Regular', '华文细黑'",
                 "fontSize":"14px",
                 "location":{
-                  "x":24,
-                  "y":1448},
+                  "x":14,
+                  "y":1438},
                 "size":{
                   "width":71,
                   "height":19}},
@@ -349,8 +343,8 @@
             "fontName":"'华文细黑 Regular', '华文细黑'",
             "fontSize":"14px",
             "location":{
-              "x":24,
-              "y":1492},
+              "x":14,
+              "y":1482},
             "size":{
               "width":71,
               "height":19}},
@@ -367,8 +361,8 @@
                 "fontName":"'华文细黑 Regular', '华文细黑'",
                 "fontSize":"14px",
                 "location":{
-                  "x":24,
-                  "y":1492},
+                  "x":14,
+                  "y":1482},
                 "size":{
                   "width":71,
                   "height":19}},
@@ -386,8 +380,8 @@
             "fontName":"'华文细黑 Regular', '华文细黑'",
             "fontSize":"14px",
             "location":{
-              "x":120,
-              "y":1448},
+              "x":110,
+              "y":1438},
             "size":{
               "width":205,
               "height":19}},
@@ -404,8 +398,8 @@
                 "fontName":"'华文细黑 Regular', '华文细黑'",
                 "fontSize":"14px",
                 "location":{
-                  "x":120,
-                  "y":1448},
+                  "x":110,
+                  "y":1438},
                 "size":{
                   "width":205,
                   "height":19}},
@@ -423,8 +417,8 @@
             "fontName":"'华文细黑 Regular', '华文细黑'",
             "fontSize":"14px",
             "location":{
-              "x":120,
-              "y":1492},
+              "x":110,
+              "y":1482},
             "size":{
               "width":47,
               "height":19}},
@@ -441,8 +435,8 @@
                 "fontName":"'华文细黑 Regular', '华文细黑'",
                 "fontSize":"14px",
                 "location":{
-                  "x":120,
-                  "y":1492},
+                  "x":110,
+                  "y":1482},
                 "size":{
                   "width":47,
                   "height":19}},
@@ -458,8 +452,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":10,
-              "y":1516},
+              "x":0,
+              "y":1506},
             "size":{
               "width":414,
               "height":10},
@@ -471,7 +465,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"2a4323d7bcef4615a907e696cbe7118e",
           "label":"",
@@ -482,8 +476,8 @@
             "fontName":"'华文细黑 Regular', '华文细黑'",
             "fontSize":"14px",
             "location":{
-              "x":24,
-              "y":1535},
+              "x":14,
+              "y":1525},
             "size":{
               "width":183,
               "height":19}},
@@ -500,8 +494,8 @@
                 "fontName":"'华文细黑 Regular', '华文细黑'",
                 "fontSize":"14px",
                 "location":{
-                  "x":24,
-                  "y":1535},
+                  "x":14,
+                  "y":1525},
                 "size":{
                   "width":183,
                   "height":19}},
@@ -519,8 +513,8 @@
             "fontName":"'华文细黑 Regular', '华文细黑'",
             "fontSize":"14px",
             "location":{
-              "x":24,
-              "y":1606},
+              "x":14,
+              "y":1596},
             "size":{
               "width":113,
               "height":19}},
@@ -537,8 +531,8 @@
                 "fontName":"'华文细黑 Regular', '华文细黑'",
                 "fontSize":"14px",
                 "location":{
-                  "x":24,
-                  "y":1606},
+                  "x":14,
+                  "y":1596},
                 "size":{
                   "width":113,
                   "height":19}},
@@ -556,8 +550,8 @@
             "fontName":"'华文细黑 Regular', '华文细黑'",
             "fontSize":"14px",
             "location":{
-              "x":24,
-              "y":1853},
+              "x":14,
+              "y":1843},
             "size":{
               "width":141,
               "height":19}},
@@ -574,8 +568,8 @@
                 "fontName":"'华文细黑 Regular', '华文细黑'",
                 "fontSize":"14px",
                 "location":{
-                  "x":24,
-                  "y":1853},
+                  "x":14,
+                  "y":1843},
                 "size":{
                   "width":141,
                   "height":19}},
@@ -593,8 +587,8 @@
             "fontName":"'华文细黑 Regular', '华文细黑'",
             "fontSize":"14px",
             "location":{
-              "x":338,
-              "y":1534},
+              "x":328,
+              "y":1524},
             "size":{
               "width":29,
               "height":19}},
@@ -611,8 +605,8 @@
                 "fontName":"'华文细黑 Regular', '华文细黑'",
                 "fontSize":"14px",
                 "location":{
-                  "x":338,
-                  "y":1534},
+                  "x":328,
+                  "y":1524},
                 "size":{
                   "width":29,
                   "height":19}},
@@ -628,8 +622,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":379,
-              "y":1539},
+              "x":369,
+              "y":1529},
             "size":{
               "width":12,
               "height":10},
@@ -643,7 +637,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u30_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u30_line.png"}},
 {
           "id":"992b79a51d8f4ecdb9127690f126a998",
           "label":"",
@@ -652,8 +646,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":388,
-              "y":1539},
+              "x":378,
+              "y":1529},
             "size":{
               "width":12,
               "height":10},
@@ -667,7 +661,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u30_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u30_line.png"}},
 {
           "id":"c0d81bd32cf54e3cb6c22f0f6a2aed15",
           "label":"",
@@ -678,8 +672,8 @@
             "fontName":"'华文细黑 Regular', '华文细黑'",
             "fontSize":"14px",
             "location":{
-              "x":338,
-              "y":1605},
+              "x":328,
+              "y":1595},
             "size":{
               "width":29,
               "height":19}},
@@ -696,8 +690,8 @@
                 "fontName":"'华文细黑 Regular', '华文细黑'",
                 "fontSize":"14px",
                 "location":{
-                  "x":338,
-                  "y":1605},
+                  "x":328,
+                  "y":1595},
                 "size":{
                   "width":29,
                   "height":19}},
@@ -716,8 +710,8 @@
               "fillType":"solid",
               "color":0xFFE4E4E4},
             "location":{
-              "x":10,
-              "y":2014},
+              "x":0,
+              "y":2004},
             "size":{
               "width":414,
               "height":13},
@@ -738,8 +732,8 @@
                   "fillType":"solid",
                   "color":0xFFE4E4E4},
                 "location":{
-                  "x":10,
-                  "y":2014},
+                  "x":0,
+                  "y":2004},
                 "size":{
                   "width":414,
                   "height":13},
@@ -749,7 +743,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/完善被保人信息v1_1/u4.png"}},
+            "normal~":"images/完善被保人信息v1_1/regen/u4.png"}},
 {
           "id":"79af2d7c0db24d5c9d63823fa788b4b1",
           "label":"",
@@ -761,8 +755,8 @@
             "fontSize":"14px",
             "fontWeight":"700",
             "location":{
-              "x":76,
-              "y":2064},
+              "x":66,
+              "y":2054},
             "size":{
               "width":301,
               "height":19}},
@@ -780,8 +774,8 @@
                 "fontSize":"14px",
                 "fontWeight":"700",
                 "location":{
-                  "x":76,
-                  "y":2064},
+                  "x":66,
+                  "y":2054},
                 "size":{
                   "width":301,
                   "height":19}},
@@ -800,8 +794,8 @@
               "fillType":"solid",
               "color":0xFF26C6DA},
             "location":{
-              "x":10,
-              "y":2167},
+              "x":0,
+              "y":2157},
             "size":{
               "width":208,
               "height":50},
@@ -822,8 +816,8 @@
                   "fillType":"solid",
                   "color":0xFF26C6DA},
                 "location":{
-                  "x":10,
-                  "y":2167},
+                  "x":0,
+                  "y":2157},
                 "size":{
                   "width":208,
                   "height":50},
@@ -833,7 +827,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/完善被保人信息v1_1/u38.png"}},
+            "normal~":"images/完善被保人信息v1_1/regen/u38.png"}},
 {
           "id":"f1e6c4812ad948a3b1438a1ee2eec4d3",
           "label":"",
@@ -845,8 +839,8 @@
               "fillType":"solid",
               "color":0xFF4D90E7},
             "location":{
-              "x":216,
-              "y":2167},
+              "x":206,
+              "y":2157},
             "size":{
               "width":208,
               "height":50},
@@ -867,8 +861,8 @@
                   "fillType":"solid",
                   "color":0xFF4D90E7},
                 "location":{
-                  "x":216,
-                  "y":2167},
+                  "x":206,
+                  "y":2157},
                 "size":{
                   "width":208,
                   "height":50},
@@ -877,8 +871,23 @@
                   "color":0x797979}},
               "adaptiveStyles":{
 }}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 订单查询V1.1",
+                      "target":{
+                        "targetType":"page",
+                        "url":"订单查询v1_1.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
           "images":{
-            "normal~":"images/完善被保人信息v1_1/u40.png"}},
+            "normal~":"images/完善被保人信息v1_1/regen/u40.png"}},
 {
           "id":"94475b7ebfb8449fbd420e9a219bb4a5",
           "label":"",
@@ -893,8 +902,8 @@
               "color":0xFFFFFFFF,
               "opacity":1},
             "location":{
-              "x":284,
-              "y":2180},
+              "x":274,
+              "y":2170},
             "size":{
               "width":73,
               "height":25}},
@@ -915,8 +924,8 @@
                   "color":0xFFFFFFFF,
                   "opacity":1},
                 "location":{
-                  "x":284,
-                  "y":2180},
+                  "x":274,
+                  "y":2170},
                 "size":{
                   "width":73,
                   "height":25}},
@@ -939,8 +948,8 @@
               "color":0xFFDD2C00,
               "opacity":1},
             "location":{
-              "x":52,
-              "y":2181},
+              "x":42,
+              "y":2171},
             "size":{
               "width":11,
               "height":23}},
@@ -962,8 +971,8 @@
                   "color":0xFFDD2C00,
                   "opacity":1},
                 "location":{
-                  "x":52,
-                  "y":2181},
+                  "x":42,
+                  "y":2171},
                 "size":{
                   "width":11,
                   "height":23}},
@@ -986,8 +995,8 @@
               "color":0xFFDD2C00,
               "opacity":1},
             "location":{
-              "x":68,
-              "y":2181},
+              "x":58,
+              "y":2171},
             "size":{
               "width":66,
               "height":23}},
@@ -1009,8 +1018,8 @@
                   "color":0xFFDD2C00,
                   "opacity":1},
                 "location":{
-                  "x":68,
-                  "y":2181},
+                  "x":58,
+                  "y":2171},
                 "size":{
                   "width":66,
                   "height":23}},
@@ -1033,8 +1042,8 @@
               "color":0xFFDD2C00,
               "opacity":1},
             "location":{
-              "x":134,
-              "y":2181},
+              "x":124,
+              "y":2171},
             "size":{
               "width":43,
               "height":22}},
@@ -1056,8 +1065,8 @@
                   "color":0xFFDD2C00,
                   "opacity":1},
                 "location":{
-                  "x":134,
-                  "y":2181},
+                  "x":124,
+                  "y":2171},
                 "size":{
                   "width":43,
                   "height":22}},
@@ -1080,8 +1089,8 @@
               "color":0xFFFF0000,
               "opacity":1},
             "location":{
-              "x":21,
-              "y":89},
+              "x":11,
+              "y":79},
             "size":{
               "width":134,
               "height":25}},
@@ -1103,8 +1112,8 @@
                   "color":0xFFFF0000,
                   "opacity":1},
                 "location":{
-                  "x":21,
-                  "y":89},
+                  "x":11,
+                  "y":79},
                 "size":{
                   "width":134,
                   "height":25}},
@@ -1120,8 +1129,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":10,
-              "y":221},
+              "x":0,
+              "y":211},
             "size":{
               "width":414,
               "height":10},
@@ -1133,7 +1142,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"a147a22bb583451ebe0a30c86ace4859",
           "label":"",
@@ -1148,8 +1157,8 @@
               "color":0xFFFF0000,
               "opacity":1},
             "location":{
-              "x":24,
-              "y":198},
+              "x":14,
+              "y":188},
             "size":{
               "width":71,
               "height":19}},
@@ -1170,8 +1179,8 @@
                   "color":0xFFFF0000,
                   "opacity":1},
                 "location":{
-                  "x":24,
-                  "y":198},
+                  "x":14,
+                  "y":188},
                 "size":{
                   "width":71,
                   "height":19}},
@@ -1187,8 +1196,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":10,
-              "y":299},
+              "x":0,
+              "y":289},
             "size":{
               "width":414,
               "height":10},
@@ -1200,7 +1209,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"ac3cf08ce5b3453d8f4d52a40e26d109",
           "label":"",
@@ -1215,8 +1224,8 @@
               "color":0xFFFF0000,
               "opacity":1},
             "location":{
-              "x":24,
-              "y":277},
+              "x":14,
+              "y":267},
             "size":{
               "width":71,
               "height":19}},
@@ -1237,8 +1246,8 @@
                   "color":0xFFFF0000,
                   "opacity":1},
                 "location":{
-                  "x":24,
-                  "y":277},
+                  "x":14,
+                  "y":267},
                 "size":{
                   "width":71,
                   "height":19}},
@@ -1256,8 +1265,8 @@
             "fontName":"'华文细黑 Regular', '华文细黑'",
             "fontSize":"14px",
             "location":{
-              "x":124,
-              "y":198},
+              "x":114,
+              "y":188},
             "size":{
               "width":43,
               "height":19}},
@@ -1274,8 +1283,8 @@
                 "fontName":"'华文细黑 Regular', '华文细黑'",
                 "fontSize":"14px",
                 "location":{
-                  "x":124,
-                  "y":198},
+                  "x":114,
+                  "y":188},
                 "size":{
                   "width":43,
                   "height":19}},
@@ -1297,8 +1306,8 @@
               "color":0xFFFF0000,
               "opacity":1},
             "location":{
-              "x":24,
-              "y":316},
+              "x":14,
+              "y":306},
             "size":{
               "width":71,
               "height":19}},
@@ -1319,8 +1328,8 @@
                   "color":0xFFFF0000,
                   "opacity":1},
                 "location":{
-                  "x":24,
-                  "y":316},
+                  "x":14,
+                  "y":306},
                 "size":{
                   "width":71,
                   "height":19}},
@@ -1336,8 +1345,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":10,
-              "y":340},
+              "x":0,
+              "y":330},
             "size":{
               "width":414,
               "height":10},
@@ -1349,7 +1358,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"f3f9c181169442cda2b56289e0d24e58",
           "label":"",
@@ -1360,8 +1369,8 @@
             "fontName":"'华文细黑 Regular', '华文细黑'",
             "fontSize":"14px",
             "location":{
-              "x":338,
-              "y":1853},
+              "x":328,
+              "y":1843},
             "size":{
               "width":29,
               "height":19}},
@@ -1378,8 +1387,8 @@
                 "fontName":"'华文细黑 Regular', '华文细黑'",
                 "fontSize":"14px",
                 "location":{
-                  "x":338,
-                  "y":1853},
+                  "x":328,
+                  "y":1843},
                 "size":{
                   "width":29,
                   "height":19}},
@@ -1395,8 +1404,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":57,
-              "y":2066},
+              "x":47,
+              "y":2056},
             "size":{
               "width":20,
               "height":16}},
@@ -1411,8 +1420,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":57,
-                  "y":2066},
+                  "x":47,
+                  "y":2056},
                 "size":{
                   "width":20,
                   "height":16}},
@@ -1432,8 +1441,8 @@
               "color":0xFFFF0000,
               "opacity":1},
             "location":{
-              "x":24,
-              "y":1563},
+              "x":14,
+              "y":1553},
             "size":{
               "width":206,
               "height":25}},
@@ -1454,8 +1463,8 @@
                   "color":0xFFFF0000,
                   "opacity":1},
                 "location":{
-                  "x":24,
-                  "y":1563},
+                  "x":14,
+                  "y":1553},
                 "size":{
                   "width":206,
                   "height":25}},
@@ -1471,8 +1480,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":10,
-              "y":1587},
+              "x":0,
+              "y":1577},
             "size":{
               "width":414,
               "height":10},
@@ -1484,7 +1493,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"d49c6a79a46840489149b384ebed54ef",
           "label":"",
@@ -1493,8 +1502,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":379,
-              "y":1608},
+              "x":369,
+              "y":1598},
             "size":{
               "width":12,
               "height":10},
@@ -1508,7 +1517,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u30_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u30_line.png"}},
 {
           "id":"49353b992dde4e109827a99afbf6ec8d",
           "label":"",
@@ -1517,8 +1526,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":388,
-              "y":1608},
+              "x":378,
+              "y":1598},
             "size":{
               "width":12,
               "height":10},
@@ -1532,7 +1541,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u30_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u30_line.png"}},
 {
           "id":"3bf003b1f18243169804b3cbcd5b7da3",
           "label":"",
@@ -1541,8 +1550,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":379,
-              "y":1857},
+              "x":369,
+              "y":1847},
             "size":{
               "width":12,
               "height":10},
@@ -1556,7 +1565,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u30_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u30_line.png"}},
 {
           "id":"eeb024c68ea3404292390d4b069953e0",
           "label":"",
@@ -1565,8 +1574,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":388,
-              "y":1857},
+              "x":378,
+              "y":1847},
             "size":{
               "width":12,
               "height":10},
@@ -1580,7 +1589,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u30_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u30_line.png"}},
 {
           "id":"90b38a0b052d4e0095b7fcbf6918d558",
           "label":"",
@@ -1589,8 +1598,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":22,
-              "y":1636},
+              "x":12,
+              "y":1626},
             "size":{
               "width":391,
               "height":193}},
@@ -1636,7 +1645,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/完善被保人信息v1_1/u75.png"}},
+                "normal~":"images/完善被保人信息v1_1/regen/u75.png"}},
 {
               "id":"5a0a697c2660420cac41baa1bff6ba46",
               "label":"",
@@ -1683,7 +1692,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/完善被保人信息v1_1/u79.png"}},
+                "normal~":"images/完善被保人信息v1_1/regen/u79.png"}},
 {
               "id":"c33ec0a894f94bde980f7f32c9527fa4",
               "label":"",
@@ -1730,7 +1739,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/完善被保人信息v1_1/u83.png"}},
+                "normal~":"images/完善被保人信息v1_1/regen/u83.png"}},
 {
               "id":"b340c611ed5c423893bd4340f23a4b97",
               "label":"",
@@ -1785,7 +1794,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/完善被保人信息v1_1/u77.png"}},
+                "normal~":"images/完善被保人信息v1_1/regen/u77.png"}},
 {
               "id":"2b01bb0b03eb4e418368c263e83e4323",
               "label":"",
@@ -1840,7 +1849,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/完善被保人信息v1_1/u81.png"}},
+                "normal~":"images/完善被保人信息v1_1/regen/u81.png"}},
 {
               "id":"9e5d4db6e56042a4ae10c9b404627449",
               "label":"",
@@ -1895,7 +1904,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/完善被保人信息v1_1/u85.png"}}]},
+                "normal~":"images/完善被保人信息v1_1/regen/u85.png"}}]},
 {
           "id":"266ff7441396488db38f337ba20de4ec",
           "label":"",
@@ -1904,8 +1913,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":10,
-              "y":1838},
+              "x":0,
+              "y":1828},
             "size":{
               "width":414,
               "height":10},
@@ -1917,7 +1926,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"99e05bc5e988443da89d2a8ef5d3ef50",
           "label":"",
@@ -1926,8 +1935,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":21,
-              "y":1884},
+              "x":11,
+              "y":1874},
             "size":{
               "width":391,
               "height":116}},
@@ -1973,7 +1982,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/完善被保人信息v1_1/u89.png"}},
+                "normal~":"images/完善被保人信息v1_1/regen/u89.png"}},
 {
               "id":"e71c44ad8c8d4499971cb48909c8e606",
               "label":"",
@@ -2020,7 +2029,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/完善被保人信息v1_1/u93.png"}},
+                "normal~":"images/完善被保人信息v1_1/regen/u93.png"}},
 {
               "id":"b7c301664f964ffab396c1869bd523c0",
               "label":"",
@@ -2075,7 +2084,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/完善被保人信息v1_1/u91.png"}},
+                "normal~":"images/完善被保人信息v1_1/regen/u91.png"}},
 {
               "id":"18979eed3d0043b897085bf58e176901",
               "label":"",
@@ -2130,7 +2139,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/完善被保人信息v1_1/u95.png"}}]},
+                "normal~":"images/完善被保人信息v1_1/regen/u95.png"}}]},
 {
           "id":"a482a344507d4f98982c92e3303ef400",
           "label":"",
@@ -2142,8 +2151,8 @@
               "fillType":"solid",
               "color":0xFF91A7FF},
             "location":{
-              "x":10,
-              "y":120},
+              "x":0,
+              "y":110},
             "size":{
               "width":414,
               "height":28},
@@ -2162,8 +2171,8 @@
                   "fillType":"solid",
                   "color":0xFF91A7FF},
                 "location":{
-                  "x":10,
-                  "y":120},
+                  "x":0,
+                  "y":110},
                 "size":{
                   "width":414,
                   "height":28},
@@ -2171,7 +2180,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/完善被保人信息v1_1/u97.png"}},
+            "normal~":"images/完善被保人信息v1_1/regen/u97.png"}},
 {
           "id":"026e12a76cb641738d9fb21adcb3353a",
           "label":"",
@@ -2186,8 +2195,8 @@
               "color":0xFFFFFFFF,
               "opacity":1},
             "location":{
-              "x":24,
-              "y":125},
+              "x":14,
+              "y":115},
             "size":{
               "width":141,
               "height":19}},
@@ -2208,8 +2217,8 @@
                   "color":0xFFFFFFFF,
                   "opacity":1},
                 "location":{
-                  "x":24,
-                  "y":125},
+                  "x":14,
+                  "y":115},
                 "size":{
                   "width":141,
                   "height":19}},
@@ -2228,8 +2237,8 @@
               "fillType":"solid",
               "color":0xFF91A7FF},
             "location":{
-              "x":10,
-              "y":550},
+              "x":0,
+              "y":540},
             "size":{
               "width":414,
               "height":28},
@@ -2248,8 +2257,8 @@
                   "fillType":"solid",
                   "color":0xFF91A7FF},
                 "location":{
-                  "x":10,
-                  "y":550},
+                  "x":0,
+                  "y":540},
                 "size":{
                   "width":414,
                   "height":28},
@@ -2257,7 +2266,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/完善被保人信息v1_1/u97.png"}},
+            "normal~":"images/完善被保人信息v1_1/regen/u97.png"}},
 {
           "id":"81dc2ee65b3d46f4bb830b0451a09406",
           "label":"",
@@ -2272,8 +2281,8 @@
               "color":0xFFFFFFFF,
               "opacity":1},
             "location":{
-              "x":24,
-              "y":555},
+              "x":14,
+              "y":545},
             "size":{
               "width":75,
               "height":19}},
@@ -2294,8 +2303,8 @@
                   "color":0xFFFFFFFF,
                   "opacity":1},
                 "location":{
-                  "x":24,
-                  "y":555},
+                  "x":14,
+                  "y":545},
                 "size":{
                   "width":75,
                   "height":19}},
@@ -2314,8 +2323,8 @@
               "fillType":"solid",
               "color":0xFF91A7FF},
             "location":{
-              "x":10,
-              "y":900},
+              "x":0,
+              "y":890},
             "size":{
               "width":414,
               "height":28},
@@ -2334,8 +2343,8 @@
                   "fillType":"solid",
                   "color":0xFF91A7FF},
                 "location":{
-                  "x":10,
-                  "y":900},
+                  "x":0,
+                  "y":890},
                 "size":{
                   "width":414,
                   "height":28},
@@ -2343,7 +2352,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/完善被保人信息v1_1/u97.png"}},
+            "normal~":"images/完善被保人信息v1_1/regen/u97.png"}},
 {
           "id":"be35990020c54fc194bed33d17125024",
           "label":"",
@@ -2358,8 +2367,8 @@
               "color":0xFFFFFFFF,
               "opacity":1},
             "location":{
-              "x":24,
-              "y":905},
+              "x":14,
+              "y":895},
             "size":{
               "width":75,
               "height":19}},
@@ -2380,8 +2389,8 @@
                   "color":0xFFFFFFFF,
                   "opacity":1},
                 "location":{
-                  "x":24,
-                  "y":905},
+                  "x":14,
+                  "y":895},
                 "size":{
                   "width":75,
                   "height":19}},
@@ -2397,8 +2406,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":10,
-              "y":181},
+              "x":0,
+              "y":171},
             "size":{
               "width":414,
               "height":10},
@@ -2410,7 +2419,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"7ee5898b4f664e58a79d5962b6318be5",
           "label":"",
@@ -2425,8 +2434,8 @@
               "color":0xFFFF0000,
               "opacity":1},
             "location":{
-              "x":24,
-              "y":158},
+              "x":14,
+              "y":148},
             "size":{
               "width":43,
               "height":19}},
@@ -2447,8 +2456,8 @@
                   "color":0xFFFF0000,
                   "opacity":1},
                 "location":{
-                  "x":24,
-                  "y":158},
+                  "x":14,
+                  "y":148},
                 "size":{
                   "width":43,
                   "height":19}},
@@ -2466,8 +2475,8 @@
             "fontName":"'华文细黑 Regular', '华文细黑'",
             "fontSize":"14px",
             "location":{
-              "x":120,
-              "y":155},
+              "x":110,
+              "y":145},
             "size":{
               "width":279,
               "height":25}},
@@ -2481,8 +2490,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":10,
-              "y":261},
+              "x":0,
+              "y":251},
             "size":{
               "width":414,
               "height":10},
@@ -2494,7 +2503,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"101448ceca5b4bb2a7256c53fca49e03",
           "label":"",
@@ -2509,8 +2518,8 @@
               "color":0xFFFF0000,
               "opacity":1},
             "location":{
-              "x":24,
-              "y":238},
+              "x":14,
+              "y":228},
             "size":{
               "width":85,
               "height":19}},
@@ -2531,8 +2540,8 @@
                   "color":0xFFFF0000,
                   "opacity":1},
                 "location":{
-                  "x":24,
-                  "y":238},
+                  "x":14,
+                  "y":228},
                 "size":{
                   "width":85,
                   "height":19}},
@@ -2548,8 +2557,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":124,
-              "y":239},
+              "x":114,
+              "y":229},
             "size":{
               "width":100,
               "height":18}},
@@ -2564,8 +2573,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":124,
-                  "y":239},
+                  "x":114,
+                  "y":229},
                 "size":{
                   "width":100,
                   "height":18}},
@@ -2579,8 +2588,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":210,
-              "y":239},
+              "x":200,
+              "y":229},
             "size":{
               "width":100,
               "height":16}},
@@ -2595,8 +2604,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":210,
-                  "y":239},
+                  "x":200,
+                  "y":229},
                 "size":{
                   "width":100,
                   "height":16}},
@@ -2616,8 +2625,8 @@
               "color":0xFF000000,
               "opacity":1},
             "location":{
-              "x":120,
-              "y":278},
+              "x":110,
+              "y":268},
             "size":{
               "width":141,
               "height":17}},
@@ -2638,8 +2647,8 @@
                   "color":0xFF000000,
                   "opacity":1},
                 "location":{
-                  "x":120,
-                  "y":278},
+                  "x":110,
+                  "y":268},
                 "size":{
                   "width":141,
                   "height":17}},
@@ -2661,8 +2670,8 @@
               "color":0xFF000000,
               "opacity":1},
             "location":{
-              "x":120,
-              "y":317},
+              "x":110,
+              "y":307},
             "size":{
               "width":67,
               "height":17}},
@@ -2683,8 +2692,8 @@
                   "color":0xFF000000,
                   "opacity":1},
                 "location":{
-                  "x":120,
-                  "y":317},
+                  "x":110,
+                  "y":307},
                 "size":{
                   "width":67,
                   "height":17}},
@@ -2702,8 +2711,8 @@
             "fontName":"'华文细黑 Regular', '华文细黑'",
             "fontSize":"14px",
             "location":{
-              "x":124,
-              "y":359},
+              "x":114,
+              "y":349},
             "size":{
               "width":15,
               "height":19}},
@@ -2720,8 +2729,8 @@
                 "fontName":"'华文细黑 Regular', '华文细黑'",
                 "fontSize":"14px",
                 "location":{
-                  "x":124,
-                  "y":359},
+                  "x":114,
+                  "y":349},
                 "size":{
                   "width":15,
                   "height":19}},
@@ -2737,8 +2746,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":10,
-              "y":384},
+              "x":0,
+              "y":374},
             "size":{
               "width":414,
               "height":10},
@@ -2750,7 +2759,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"7df818b3286d43f2bbe13ef20f076b2b",
           "label":"",
@@ -2765,8 +2774,8 @@
               "color":0xFFFF0000,
               "opacity":1},
             "location":{
-              "x":24,
-              "y":483},
+              "x":14,
+              "y":473},
             "size":{
               "width":43,
               "height":19}},
@@ -2787,8 +2796,8 @@
                   "color":0xFFFF0000,
                   "opacity":1},
                 "location":{
-                  "x":24,
-                  "y":483},
+                  "x":14,
+                  "y":473},
                 "size":{
                   "width":43,
                   "height":19}},
@@ -2804,8 +2813,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":10,
-              "y":425},
+              "x":0,
+              "y":415},
             "size":{
               "width":414,
               "height":10},
@@ -2817,7 +2826,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"d213c8ad246a4abdaedca82bee2dfa88",
           "label":"",
@@ -2832,8 +2841,8 @@
               "color":0xFFFF0000,
               "opacity":1},
             "location":{
-              "x":24,
-              "y":403},
+              "x":14,
+              "y":393},
             "size":{
               "width":43,
               "height":19}},
@@ -2854,8 +2863,8 @@
                   "color":0xFFFF0000,
                   "opacity":1},
                 "location":{
-                  "x":24,
-                  "y":403},
+                  "x":14,
+                  "y":393},
                 "size":{
                   "width":43,
                   "height":19}},
@@ -2877,8 +2886,8 @@
               "color":0xFFFF0000,
               "opacity":1},
             "location":{
-              "x":24,
-              "y":442},
+              "x":14,
+              "y":432},
             "size":{
               "width":57,
               "height":19}},
@@ -2899,8 +2908,8 @@
                   "color":0xFFFF0000,
                   "opacity":1},
                 "location":{
-                  "x":24,
-                  "y":442},
+                  "x":14,
+                  "y":432},
                 "size":{
                   "width":57,
                   "height":19}},
@@ -2916,8 +2925,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":10,
-              "y":466},
+              "x":0,
+              "y":456},
             "size":{
               "width":414,
               "height":10},
@@ -2929,7 +2938,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"247c27cd1f7f4b289a6f7673f785f449",
           "label":"",
@@ -2944,8 +2953,8 @@
               "color":0xFF000000,
               "opacity":1},
             "location":{
-              "x":124,
-              "y":403},
+              "x":114,
+              "y":393},
             "size":{
               "width":15,
               "height":19}},
@@ -2966,8 +2975,8 @@
                   "color":0xFF000000,
                   "opacity":1},
                 "location":{
-                  "x":124,
-                  "y":403},
+                  "x":114,
+                  "y":393},
                 "size":{
                   "width":15,
                   "height":19}},
@@ -2985,8 +2994,8 @@
             "fontName":"'华文细黑 Regular', '华文细黑'",
             "fontSize":"14px",
             "location":{
-              "x":120,
-              "y":439},
+              "x":110,
+              "y":429},
             "size":{
               "width":279,
               "height":25}},
@@ -3002,8 +3011,8 @@
             "fontName":"'华文细黑 Regular', '华文细黑'",
             "fontSize":"14px",
             "location":{
-              "x":120,
-              "y":480},
+              "x":110,
+              "y":470},
             "size":{
               "width":279,
               "height":25}},
@@ -3023,8 +3032,8 @@
               "color":0xFFFF0000,
               "opacity":1},
             "location":{
-              "x":24,
-              "y":831},
+              "x":14,
+              "y":821},
             "size":{
               "width":85,
               "height":19}},
@@ -3045,8 +3054,8 @@
                   "color":0xFFFF0000,
                   "opacity":1},
                 "location":{
-                  "x":24,
-                  "y":831},
+                  "x":14,
+                  "y":821},
                 "size":{
                   "width":85,
                   "height":19}},
@@ -3062,8 +3071,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":10,
-              "y":693},
+              "x":0,
+              "y":683},
             "size":{
               "width":414,
               "height":10},
@@ -3075,7 +3084,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"b564cc32d3fb49f392ebe7d937858d19",
           "label":"",
@@ -3090,8 +3099,8 @@
               "color":0xFFFF0000,
               "opacity":1},
             "location":{
-              "x":24,
-              "y":670},
+              "x":14,
+              "y":660},
             "size":{
               "width":71,
               "height":19}},
@@ -3112,8 +3121,8 @@
                   "color":0xFFFF0000,
                   "opacity":1},
                 "location":{
-                  "x":24,
-                  "y":670},
+                  "x":14,
+                  "y":660},
                 "size":{
                   "width":71,
                   "height":19}},
@@ -3129,8 +3138,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":10,
-              "y":771},
+              "x":0,
+              "y":761},
             "size":{
               "width":414,
               "height":10},
@@ -3142,7 +3151,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"7588efa44b8b4e16a1f4bba9d38227ab",
           "label":"",
@@ -3157,8 +3166,8 @@
               "color":0xFFFF0000,
               "opacity":1},
             "location":{
-              "x":24,
-              "y":749},
+              "x":14,
+              "y":739},
             "size":{
               "width":71,
               "height":19}},
@@ -3179,8 +3188,8 @@
                   "color":0xFFFF0000,
                   "opacity":1},
                 "location":{
-                  "x":24,
-                  "y":749},
+                  "x":14,
+                  "y":739},
                 "size":{
                   "width":71,
                   "height":19}},
@@ -3198,8 +3207,8 @@
             "fontName":"'华文细黑 Regular', '华文细黑'",
             "fontSize":"14px",
             "location":{
-              "x":124,
-              "y":670},
+              "x":114,
+              "y":660},
             "size":{
               "width":43,
               "height":19}},
@@ -3216,8 +3225,8 @@
                 "fontName":"'华文细黑 Regular', '华文细黑'",
                 "fontSize":"14px",
                 "location":{
-                  "x":124,
-                  "y":670},
+                  "x":114,
+                  "y":660},
                 "size":{
                   "width":43,
                   "height":19}},
@@ -3239,8 +3248,8 @@
               "color":0xFFFF0000,
               "opacity":1},
             "location":{
-              "x":24,
-              "y":788},
+              "x":14,
+              "y":778},
             "size":{
               "width":71,
               "height":19}},
@@ -3261,8 +3270,8 @@
                   "color":0xFFFF0000,
                   "opacity":1},
                 "location":{
-                  "x":24,
-                  "y":788},
+                  "x":14,
+                  "y":778},
                 "size":{
                   "width":71,
                   "height":19}},
@@ -3278,8 +3287,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":10,
-              "y":812},
+              "x":0,
+              "y":802},
             "size":{
               "width":414,
               "height":10},
@@ -3291,7 +3300,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"b214157157fd4af1b8533b56124f2f51",
           "label":"",
@@ -3300,8 +3309,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":10,
-              "y":653},
+              "x":0,
+              "y":643},
             "size":{
               "width":414,
               "height":10},
@@ -3313,7 +3322,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"b30f29f918e64220bfc895215144bb5a",
           "label":"",
@@ -3328,8 +3337,8 @@
               "color":0xFFFF0000,
               "opacity":1},
             "location":{
-              "x":24,
-              "y":630},
+              "x":14,
+              "y":620},
             "size":{
               "width":43,
               "height":19}},
@@ -3350,8 +3359,8 @@
                   "color":0xFFFF0000,
                   "opacity":1},
                 "location":{
-                  "x":24,
-                  "y":630},
+                  "x":14,
+                  "y":620},
                 "size":{
                   "width":43,
                   "height":19}},
@@ -3369,8 +3378,8 @@
             "fontName":"'华文细黑 Regular', '华文细黑'",
             "fontSize":"14px",
             "location":{
-              "x":120,
-              "y":627},
+              "x":110,
+              "y":617},
             "size":{
               "width":279,
               "height":25}},
@@ -3384,8 +3393,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":10,
-              "y":733},
+              "x":0,
+              "y":723},
             "size":{
               "width":414,
               "height":10},
@@ -3397,7 +3406,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"762e91deaaa6492797a49eb5b0d437d4",
           "label":"",
@@ -3412,8 +3421,8 @@
               "color":0xFFFF0000,
               "opacity":1},
             "location":{
-              "x":24,
-              "y":710},
+              "x":14,
+              "y":700},
             "size":{
               "width":85,
               "height":19}},
@@ -3434,8 +3443,8 @@
                   "color":0xFFFF0000,
                   "opacity":1},
                 "location":{
-                  "x":24,
-                  "y":710},
+                  "x":14,
+                  "y":700},
                 "size":{
                   "width":85,
                   "height":19}},
@@ -3451,8 +3460,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":124,
-              "y":711},
+              "x":114,
+              "y":701},
             "size":{
               "width":100,
               "height":18}},
@@ -3467,8 +3476,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":124,
-                  "y":711},
+                  "x":114,
+                  "y":701},
                 "size":{
                   "width":100,
                   "height":18}},
@@ -3482,8 +3491,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":210,
-              "y":711},
+              "x":200,
+              "y":701},
             "size":{
               "width":100,
               "height":16}},
@@ -3498,8 +3507,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":210,
-                  "y":711},
+                  "x":200,
+                  "y":701},
                 "size":{
                   "width":100,
                   "height":16}},
@@ -3519,8 +3528,8 @@
               "color":0xFF000000,
               "opacity":1},
             "location":{
-              "x":120,
-              "y":750},
+              "x":110,
+              "y":740},
             "size":{
               "width":141,
               "height":17}},
@@ -3541,8 +3550,8 @@
                   "color":0xFF000000,
                   "opacity":1},
                 "location":{
-                  "x":120,
-                  "y":750},
+                  "x":110,
+                  "y":740},
                 "size":{
                   "width":141,
                   "height":17}},
@@ -3564,8 +3573,8 @@
               "color":0xFF000000,
               "opacity":1},
             "location":{
-              "x":120,
-              "y":789},
+              "x":110,
+              "y":779},
             "size":{
               "width":67,
               "height":17}},
@@ -3586,8 +3595,8 @@
                   "color":0xFF000000,
                   "opacity":1},
                 "location":{
-                  "x":120,
-                  "y":789},
+                  "x":110,
+                  "y":779},
                 "size":{
                   "width":67,
                   "height":17}},
@@ -3605,8 +3614,8 @@
             "fontName":"'华文细黑 Regular', '华文细黑'",
             "fontSize":"14px",
             "location":{
-              "x":124,
-              "y":831},
+              "x":114,
+              "y":821},
             "size":{
               "width":15,
               "height":19}},
@@ -3623,8 +3632,8 @@
                 "fontName":"'华文细黑 Regular', '华文细黑'",
                 "fontSize":"14px",
                 "location":{
-                  "x":124,
-                  "y":831},
+                  "x":114,
+                  "y":821},
                 "size":{
                   "width":15,
                   "height":19}},
@@ -3640,8 +3649,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":10,
-              "y":856},
+              "x":0,
+              "y":846},
             "size":{
               "width":414,
               "height":10},
@@ -3653,7 +3662,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"64de28ab0d1d47318f0dda19fde3bb1c",
           "label":"",
@@ -3668,8 +3677,8 @@
               "color":0xFFFF0000,
               "opacity":1},
             "location":{
-              "x":24,
-              "y":873},
+              "x":14,
+              "y":863},
             "size":{
               "width":43,
               "height":19}},
@@ -3690,8 +3699,8 @@
                   "color":0xFFFF0000,
                   "opacity":1},
                 "location":{
-                  "x":24,
-                  "y":873},
+                  "x":14,
+                  "y":863},
                 "size":{
                   "width":43,
                   "height":19}},
@@ -3713,8 +3722,8 @@
               "color":0xFF000000,
               "opacity":1},
             "location":{
-              "x":124,
-              "y":873},
+              "x":114,
+              "y":863},
             "size":{
               "width":15,
               "height":19}},
@@ -3735,8 +3744,8 @@
                   "color":0xFF000000,
                   "opacity":1},
                 "location":{
-                  "x":124,
-                  "y":873},
+                  "x":114,
+                  "y":863},
                 "size":{
                   "width":15,
                   "height":19}},
@@ -3752,8 +3761,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":10,
-              "y":613},
+              "x":0,
+              "y":603},
             "size":{
               "width":414,
               "height":10},
@@ -3765,7 +3774,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"fd268b126c3f4df3a85520620a6caa1f",
           "label":"",
@@ -3780,8 +3789,8 @@
               "color":0xFFFF0000,
               "opacity":1},
             "location":{
-              "x":24,
-              "y":590},
+              "x":14,
+              "y":580},
             "size":{
               "width":99,
               "height":19}},
@@ -3802,8 +3811,8 @@
                   "color":0xFFFF0000,
                   "opacity":1},
                 "location":{
-                  "x":24,
-                  "y":590},
+                  "x":14,
+                  "y":580},
                 "size":{
                   "width":99,
                   "height":19}},
@@ -3821,8 +3830,8 @@
             "fontName":"'华文细黑 Regular', '华文细黑'",
             "fontSize":"14px",
             "location":{
-              "x":123,
-              "y":590},
+              "x":113,
+              "y":580},
             "size":{
               "width":29,
               "height":19}},
@@ -3839,8 +3848,8 @@
                 "fontName":"'华文细黑 Regular', '华文细黑'",
                 "fontSize":"14px",
                 "location":{
-                  "x":123,
-                  "y":590},
+                  "x":113,
+                  "y":580},
                 "size":{
                   "width":29,
                   "height":19}},
@@ -3862,8 +3871,8 @@
               "color":0xFFFF0000,
               "opacity":1},
             "location":{
-              "x":24,
-              "y":1182},
+              "x":14,
+              "y":1172},
             "size":{
               "width":85,
               "height":19}},
@@ -3884,8 +3893,8 @@
                   "color":0xFFFF0000,
                   "opacity":1},
                 "location":{
-                  "x":24,
-                  "y":1182},
+                  "x":14,
+                  "y":1172},
                 "size":{
                   "width":85,
                   "height":19}},
@@ -3901,8 +3910,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":10,
-              "y":1044},
+              "x":0,
+              "y":1034},
             "size":{
               "width":414,
               "height":10},
@@ -3914,7 +3923,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"fab367baa7b64c07972fd87e59c6f1d1",
           "label":"",
@@ -3929,8 +3938,8 @@
               "color":0xFFFF0000,
               "opacity":1},
             "location":{
-              "x":24,
-              "y":1021},
+              "x":14,
+              "y":1011},
             "size":{
               "width":71,
               "height":19}},
@@ -3951,8 +3960,8 @@
                   "color":0xFFFF0000,
                   "opacity":1},
                 "location":{
-                  "x":24,
-                  "y":1021},
+                  "x":14,
+                  "y":1011},
                 "size":{
                   "width":71,
                   "height":19}},
@@ -3968,8 +3977,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":10,
-              "y":1122},
+              "x":0,
+              "y":1112},
             "size":{
               "width":414,
               "height":10},
@@ -3981,7 +3990,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"2bfba1d861c04a3587e366c0906ad179",
           "label":"",
@@ -3996,8 +4005,8 @@
               "color":0xFFFF0000,
               "opacity":1},
             "location":{
-              "x":24,
-              "y":1100},
+              "x":14,
+              "y":1090},
             "size":{
               "width":71,
               "height":19}},
@@ -4018,8 +4027,8 @@
                   "color":0xFFFF0000,
                   "opacity":1},
                 "location":{
-                  "x":24,
-                  "y":1100},
+                  "x":14,
+                  "y":1090},
                 "size":{
                   "width":71,
                   "height":19}},
@@ -4037,8 +4046,8 @@
             "fontName":"'华文细黑 Regular', '华文细黑'",
             "fontSize":"14px",
             "location":{
-              "x":124,
-              "y":1021},
+              "x":114,
+              "y":1011},
             "size":{
               "width":43,
               "height":19}},
@@ -4055,8 +4064,8 @@
                 "fontName":"'华文细黑 Regular', '华文细黑'",
                 "fontSize":"14px",
                 "location":{
-                  "x":124,
-                  "y":1021},
+                  "x":114,
+                  "y":1011},
                 "size":{
                   "width":43,
                   "height":19}},
@@ -4078,8 +4087,8 @@
               "color":0xFFFF0000,
               "opacity":1},
             "location":{
-              "x":24,
-              "y":1139},
+              "x":14,
+              "y":1129},
             "size":{
               "width":71,
               "height":19}},
@@ -4100,8 +4109,8 @@
                   "color":0xFFFF0000,
                   "opacity":1},
                 "location":{
-                  "x":24,
-                  "y":1139},
+                  "x":14,
+                  "y":1129},
                 "size":{
                   "width":71,
                   "height":19}},
@@ -4117,8 +4126,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":10,
-              "y":1163},
+              "x":0,
+              "y":1153},
             "size":{
               "width":414,
               "height":10},
@@ -4130,7 +4139,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"59367a4b4015418892a903a554e58c29",
           "label":"",
@@ -4139,8 +4148,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":10,
-              "y":1004},
+              "x":0,
+              "y":994},
             "size":{
               "width":414,
               "height":10},
@@ -4152,7 +4161,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"cc1bb086f0984fe3874458b52fcd5282",
           "label":"",
@@ -4167,8 +4176,8 @@
               "color":0xFFFF0000,
               "opacity":1},
             "location":{
-              "x":24,
-              "y":981},
+              "x":14,
+              "y":971},
             "size":{
               "width":43,
               "height":19}},
@@ -4189,8 +4198,8 @@
                   "color":0xFFFF0000,
                   "opacity":1},
                 "location":{
-                  "x":24,
-                  "y":981},
+                  "x":14,
+                  "y":971},
                 "size":{
                   "width":43,
                   "height":19}},
@@ -4208,8 +4217,8 @@
             "fontName":"'华文细黑 Regular', '华文细黑'",
             "fontSize":"14px",
             "location":{
-              "x":120,
-              "y":978},
+              "x":110,
+              "y":968},
             "size":{
               "width":279,
               "height":25}},
@@ -4223,8 +4232,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":10,
-              "y":1084},
+              "x":0,
+              "y":1074},
             "size":{
               "width":414,
               "height":10},
@@ -4236,7 +4245,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"65d2cd966e2b41dabf5059c8654b117f",
           "label":"",
@@ -4251,8 +4260,8 @@
               "color":0xFFFF0000,
               "opacity":1},
             "location":{
-              "x":24,
-              "y":1061},
+              "x":14,
+              "y":1051},
             "size":{
               "width":85,
               "height":19}},
@@ -4273,8 +4282,8 @@
                   "color":0xFFFF0000,
                   "opacity":1},
                 "location":{
-                  "x":24,
-                  "y":1061},
+                  "x":14,
+                  "y":1051},
                 "size":{
                   "width":85,
                   "height":19}},
@@ -4290,8 +4299,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":124,
-              "y":1062},
+              "x":114,
+              "y":1052},
             "size":{
               "width":100,
               "height":18}},
@@ -4306,8 +4315,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":124,
-                  "y":1062},
+                  "x":114,
+                  "y":1052},
                 "size":{
                   "width":100,
                   "height":18}},
@@ -4321,8 +4330,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":210,
-              "y":1062},
+              "x":200,
+              "y":1052},
             "size":{
               "width":100,
               "height":16}},
@@ -4337,8 +4346,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":210,
-                  "y":1062},
+                  "x":200,
+                  "y":1052},
                 "size":{
                   "width":100,
                   "height":16}},
@@ -4358,8 +4367,8 @@
               "color":0xFF000000,
               "opacity":1},
             "location":{
-              "x":120,
-              "y":1101},
+              "x":110,
+              "y":1091},
             "size":{
               "width":141,
               "height":17}},
@@ -4380,8 +4389,8 @@
                   "color":0xFF000000,
                   "opacity":1},
                 "location":{
-                  "x":120,
-                  "y":1101},
+                  "x":110,
+                  "y":1091},
                 "size":{
                   "width":141,
                   "height":17}},
@@ -4403,8 +4412,8 @@
               "color":0xFF000000,
               "opacity":1},
             "location":{
-              "x":120,
-              "y":1140},
+              "x":110,
+              "y":1130},
             "size":{
               "width":67,
               "height":17}},
@@ -4425,8 +4434,8 @@
                   "color":0xFF000000,
                   "opacity":1},
                 "location":{
-                  "x":120,
-                  "y":1140},
+                  "x":110,
+                  "y":1130},
                 "size":{
                   "width":67,
                   "height":17}},
@@ -4444,8 +4453,8 @@
             "fontName":"'华文细黑 Regular', '华文细黑'",
             "fontSize":"14px",
             "location":{
-              "x":124,
-              "y":1182},
+              "x":114,
+              "y":1172},
             "size":{
               "width":15,
               "height":19}},
@@ -4462,8 +4471,8 @@
                 "fontName":"'华文细黑 Regular', '华文细黑'",
                 "fontSize":"14px",
                 "location":{
-                  "x":124,
-                  "y":1182},
+                  "x":114,
+                  "y":1172},
                 "size":{
                   "width":15,
                   "height":19}},
@@ -4479,8 +4488,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":10,
-              "y":1207},
+              "x":0,
+              "y":1197},
             "size":{
               "width":414,
               "height":10},
@@ -4492,7 +4501,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"f1bbd6d9e33847d2b85135f347c2fb79",
           "label":"",
@@ -4507,8 +4516,8 @@
               "color":0xFFFF0000,
               "opacity":1},
             "location":{
-              "x":24,
-              "y":1224},
+              "x":14,
+              "y":1214},
             "size":{
               "width":43,
               "height":19}},
@@ -4529,8 +4538,8 @@
                   "color":0xFFFF0000,
                   "opacity":1},
                 "location":{
-                  "x":24,
-                  "y":1224},
+                  "x":14,
+                  "y":1214},
                 "size":{
                   "width":43,
                   "height":19}},
@@ -4552,8 +4561,8 @@
               "color":0xFF000000,
               "opacity":1},
             "location":{
-              "x":124,
-              "y":1224},
+              "x":114,
+              "y":1214},
             "size":{
               "width":15,
               "height":19}},
@@ -4574,8 +4583,8 @@
                   "color":0xFF000000,
                   "opacity":1},
                 "location":{
-                  "x":124,
-                  "y":1224},
+                  "x":114,
+                  "y":1214},
                 "size":{
                   "width":15,
                   "height":19}},
@@ -4591,8 +4600,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":10,
-              "y":964},
+              "x":0,
+              "y":954},
             "size":{
               "width":414,
               "height":10},
@@ -4604,7 +4613,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"b3c9969bb3f04d61a508c693d18dc7db",
           "label":"",
@@ -4619,8 +4628,8 @@
               "color":0xFFFF0000,
               "opacity":1},
             "location":{
-              "x":24,
-              "y":941},
+              "x":14,
+              "y":931},
             "size":{
               "width":99,
               "height":19}},
@@ -4641,8 +4650,8 @@
                   "color":0xFFFF0000,
                   "opacity":1},
                 "location":{
-                  "x":24,
-                  "y":941},
+                  "x":14,
+                  "y":931},
                 "size":{
                   "width":99,
                   "height":19}},
@@ -4660,8 +4669,8 @@
             "fontName":"'华文细黑 Regular', '华文细黑'",
             "fontSize":"14px",
             "location":{
-              "x":123,
-              "y":941},
+              "x":113,
+              "y":931},
             "size":{
               "width":29,
               "height":19}},
@@ -4678,8 +4687,8 @@
                 "fontName":"'华文细黑 Regular', '华文细黑'",
                 "fontSize":"14px",
                 "location":{
-                  "x":123,
-                  "y":941},
+                  "x":113,
+                  "y":931},
                 "size":{
                   "width":29,
                   "height":19}},
@@ -4696,8 +4705,8 @@
           "style":{
             "fontSize":"14px",
             "location":{
-              "x":120,
-              "y":1403},
+              "x":110,
+              "y":1393},
             "size":{
               "width":117,
               "height":19}},
@@ -4713,8 +4722,8 @@
               "style":{
                 "fontSize":"14px",
                 "location":{
-                  "x":120,
-                  "y":1403},
+                  "x":110,
+                  "y":1393},
                 "size":{
                   "width":117,
                   "height":19}},
@@ -4733,8 +4742,8 @@
               "fillType":"solid",
               "color":0xFFE4E4E4},
             "location":{
-              "x":10,
-              "y":1251},
+              "x":0,
+              "y":1241},
             "size":{
               "width":414,
               "height":13},
@@ -4755,8 +4764,8 @@
                   "fillType":"solid",
                   "color":0xFFE4E4E4},
                 "location":{
-                  "x":10,
-                  "y":1251},
+                  "x":0,
+                  "y":1241},
                 "size":{
                   "width":414,
                   "height":13},
@@ -4766,7 +4775,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/完善被保人信息v1_1/u4.png"}},
+            "normal~":"images/完善被保人信息v1_1/regen/u4.png"}},
 {
           "id":"dabfd633a4f548a9864809a0edd5efaa",
           "label":"",
@@ -4782,8 +4791,8 @@
               "color":0xFFFF0000,
               "opacity":1},
             "location":{
-              "x":21,
-              "y":1268},
+              "x":11,
+              "y":1258},
             "size":{
               "width":96,
               "height":25}},
@@ -4805,8 +4814,8 @@
                   "color":0xFFFF0000,
                   "opacity":1},
                 "location":{
-                  "x":21,
-                  "y":1268},
+                  "x":11,
+                  "y":1258},
                 "size":{
                   "width":96,
                   "height":25}},
@@ -4822,8 +4831,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":10,
-              "y":1295},
+              "x":0,
+              "y":1285},
             "size":{
               "width":414,
               "height":10},
@@ -4835,7 +4844,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"d639c76f67754e5f83b789f5004879c1",
           "label":"",
@@ -4846,8 +4855,8 @@
             "fontName":"'华文细黑 Regular', '华文细黑'",
             "fontSize":"14px",
             "location":{
-              "x":149,
-              "y":1312},
+              "x":139,
+              "y":1302},
             "size":{
               "width":141,
               "height":19}},
@@ -4864,8 +4873,8 @@
                 "fontName":"'华文细黑 Regular', '华文细黑'",
                 "fontSize":"14px",
                 "location":{
-                  "x":149,
-                  "y":1312},
+                  "x":139,
+                  "y":1302},
                 "size":{
                   "width":141,
                   "height":19}},
@@ -4884,8 +4893,8 @@
             "fontSize":"14px",
             "fontWeight":"700",
             "location":{
-              "x":76,
-              "y":2104},
+              "x":66,
+              "y":2094},
             "size":{
               "width":301,
               "height":19}},
@@ -4903,8 +4912,8 @@
                 "fontSize":"14px",
                 "fontWeight":"700",
                 "location":{
-                  "x":76,
-                  "y":2104},
+                  "x":66,
+                  "y":2094},
                 "size":{
                   "width":301,
                   "height":19}},
@@ -4920,8 +4929,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":57,
-              "y":2106},
+              "x":47,
+              "y":2096},
             "size":{
               "width":20,
               "height":16}},
@@ -4936,8 +4945,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":57,
-                  "y":2106},
+                  "x":47,
+                  "y":2096},
                 "size":{
                   "width":20,
                   "height":16}},
@@ -4951,8 +4960,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":10,
-              "y":78},
+              "x":0,
+              "y":68},
             "size":{
               "width":414,
               "height":10},
@@ -4964,7 +4973,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"49955dd463474f86b7e48cfa3af5f312",
           "label":"",
@@ -4979,8 +4988,8 @@
               "color":0xFFFF0000,
               "opacity":1},
             "location":{
-              "x":24,
-              "y":523},
+              "x":14,
+              "y":513},
             "size":{
               "width":71,
               "height":19}},
@@ -5001,8 +5010,8 @@
                   "color":0xFFFF0000,
                   "opacity":1},
                 "location":{
-                  "x":24,
-                  "y":523},
+                  "x":14,
+                  "y":513},
                 "size":{
                   "width":71,
                   "height":19}},
@@ -5018,8 +5027,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":10,
-              "y":506},
+              "x":0,
+              "y":496},
             "size":{
               "width":414,
               "height":10},
@@ -5031,7 +5040,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/完善被保人信息v1_1/u6_line.png"}},
+            "line~":"images/完善被保人信息v1_1/regen/u6_line.png"}},
 {
           "id":"63d3ea6eb7f44f77a1a4caba362facc7",
           "label":"",
@@ -5042,8 +5051,8 @@
             "fontName":"'华文细黑 Regular', '华文细黑'",
             "fontSize":"14px",
             "location":{
-              "x":120,
-              "y":520},
+              "x":110,
+              "y":510},
             "size":{
               "width":279,
               "height":25}},
