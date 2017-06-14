@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"健康告知v1_1.html",
-  "generationDate":new Date(1497434212210.44),
+  "generationDate":new Date(1497434533212.44),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -55,7 +55,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/健康告知v1_1/regen/u0.png"}},
+            "normal~":"images/健康告知v1_1/u0.png"}},
 {
           "id":"51db5b6cab6a4c5791cbc04048d20a09",
           "label":"",
@@ -96,7 +96,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/健康告知v1_1/regen/u2.png"}},
+            "normal~":"images/健康告知v1_1/u2.png"}},
 {
           "id":"9ce984e6d4844bafa628df9ce0aba2f9",
           "label":"",
@@ -242,7 +242,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/健康告知v1_1/regen/u10_line.png"}},
+            "line~":"images/健康告知v1_1/u10_line.png"}},
 {
           "id":"28c33602aef74f969a46f8fa94511cd7",
           "label":"",
@@ -265,7 +265,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/健康告知v1_1/regen/u10_line.png"}},
+            "line~":"images/健康告知v1_1/u10_line.png"}},
 {
           "id":"b165fdcf8d00418f98a9c4f0e62b84d3",
           "label":"",
@@ -288,7 +288,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/健康告知v1_1/regen/u10_line.png"}},
+            "line~":"images/健康告知v1_1/u10_line.png"}},
 {
           "id":"72955b1a44d14c8fa741857ead51fddc",
           "label":"",
@@ -311,7 +311,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/健康告知v1_1/regen/u10_line.png"}},
+            "line~":"images/健康告知v1_1/u10_line.png"}},
 {
           "id":"4924c5671a3843e980df589951e00992",
           "label":"",
@@ -356,7 +356,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/健康告知v1_1/regen/u14.png"}},
+            "normal~":"images/健康告知v1_1/u14.png"}},
 {
           "id":"0c61f88e29614d01bf8953a1035f9176",
           "label":"",
@@ -401,7 +401,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/健康告知v1_1/regen/u16.png"}},
+            "normal~":"images/健康告知v1_1/u16.png"}},
 {
           "id":"3b7e52dca9494b929a3411d585ca82e1",
           "label":"",
