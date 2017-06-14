@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"订单查询v1_1.html",
-  "generationDate":new Date(1497425224508.84),
+  "generationDate":new Date(1497427582417.84),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -36,9 +36,6 @@
           "styleType":"buttonShape",
           "visible":true,
           "style":{
-            "location":{
-              "x":10,
-              "y":10},
             "size":{
               "width":414,
               "height":600}},
@@ -52,9 +49,6 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "location":{
-                  "x":10,
-                  "y":10},
                 "size":{
                   "width":414,
                   "height":600}},
@@ -70,8 +64,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":10,
-              "y":78},
+              "x":0,
+              "y":68},
             "size":{
               "width":414,
               "height":10},
@@ -92,8 +86,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":24,
-              "y":89},
+              "x":14,
+              "y":79},
             "size":{
               "width":22,
               "height":21}},
@@ -108,8 +102,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":24,
-                  "y":89},
+                  "x":14,
+                  "y":79},
                 "size":{
                   "width":22,
                   "height":21}},
@@ -127,8 +121,8 @@
             "fontName":"'Times New Roman Normal', 'Times New Roman'",
             "fontSize":"14px",
             "location":{
-              "x":49,
-              "y":90},
+              "x":39,
+              "y":80},
             "size":{
               "width":81,
               "height":17}},
@@ -145,8 +139,8 @@
                 "fontName":"'Times New Roman Normal', 'Times New Roman'",
                 "fontSize":"14px",
                 "location":{
-                  "x":49,
-                  "y":90},
+                  "x":39,
+                  "y":80},
                 "size":{
                   "width":81,
                   "height":17}},
@@ -164,8 +158,8 @@
             "fontName":"'华文细黑 Regular', '华文细黑'",
             "fontSize":"14px",
             "location":{
-              "x":265,
-              "y":90},
+              "x":255,
+              "y":80},
             "size":{
               "width":57,
               "height":19}},
@@ -182,8 +176,8 @@
                 "fontName":"'华文细黑 Regular', '华文细黑'",
                 "fontSize":"14px",
                 "location":{
-                  "x":265,
-                  "y":90},
+                  "x":255,
+                  "y":80},
                 "size":{
                   "width":57,
                   "height":19}},
@@ -201,8 +195,8 @@
             "fontName":"'华文细黑 Regular', '华文细黑'",
             "fontSize":"14px",
             "location":{
-              "x":350,
-              "y":90},
+              "x":340,
+              "y":80},
             "size":{
               "width":57,
               "height":19}},
@@ -219,8 +213,8 @@
                 "fontName":"'华文细黑 Regular', '华文细黑'",
                 "fontSize":"14px",
                 "location":{
-                  "x":350,
-                  "y":90},
+                  "x":340,
+                  "y":80},
                 "size":{
                   "width":57,
                   "height":19}},
@@ -236,8 +230,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":237,
-              "y":91},
+              "x":227,
+              "y":81},
             "size":{
               "width":28,
               "height":18}},
@@ -252,8 +246,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":237,
-                  "y":91},
+                  "x":227,
+                  "y":81},
                 "size":{
                   "width":28,
                   "height":18}},
@@ -269,8 +263,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":328,
-              "y":90},
+              "x":318,
+              "y":80},
             "size":{
               "width":22,
               "height":21}},
@@ -285,8 +279,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":328,
-                  "y":90},
+                  "x":318,
+                  "y":80},
                 "size":{
                   "width":22,
                   "height":21}},
@@ -305,8 +299,8 @@
               "fillType":"solid",
               "color":0xFFEEEEEE},
             "location":{
-              "x":28,
-              "y":164},
+              "x":18,
+              "y":154},
             "size":{
               "width":377,
               "height":406},
@@ -325,8 +319,8 @@
                   "fillType":"solid",
                   "color":0xFFEEEEEE},
                 "location":{
-                  "x":28,
-                  "y":164},
+                  "x":18,
+                  "y":154},
                 "size":{
                   "width":377,
                   "height":406},
@@ -345,8 +339,8 @@
             "fontName":"'华文细黑 Regular', '华文细黑'",
             "fontSize":"18px",
             "location":{
-              "x":72,
-              "y":125},
+              "x":62,
+              "y":115},
             "size":{
               "width":289,
               "height":25}},
@@ -363,8 +357,8 @@
                 "fontName":"'华文细黑 Regular', '华文细黑'",
                 "fontSize":"18px",
                 "location":{
-                  "x":72,
-                  "y":125},
+                  "x":62,
+                  "y":115},
                 "size":{
                   "width":289,
                   "height":25}},
@@ -380,8 +374,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":40,
-              "y":180},
+              "x":30,
+              "y":170},
             "size":{
               "width":156,
               "height":18}},
@@ -396,8 +390,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":40,
-                  "y":180},
+                  "x":30,
+                  "y":170},
                 "size":{
                   "width":156,
                   "height":18}},
@@ -414,8 +408,8 @@
           "style":{
             "fontName":"'华文细黑 Regular', '华文细黑'",
             "location":{
-              "x":40,
-              "y":235},
+              "x":30,
+              "y":225},
             "size":{
               "width":168,
               "height":18}},
@@ -431,8 +425,8 @@
               "style":{
                 "fontName":"'华文细黑 Regular', '华文细黑'",
                 "location":{
-                  "x":40,
-                  "y":235},
+                  "x":30,
+                  "y":225},
                 "size":{
                   "width":168,
                   "height":18}},
@@ -448,8 +442,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":40,
-              "y":208},
+              "x":30,
+              "y":198},
             "size":{
               "width":161,
               "height":18}},
@@ -464,8 +458,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":40,
-                  "y":208},
+                  "x":30,
+                  "y":198},
                 "size":{
                   "width":161,
                   "height":18}},
@@ -482,8 +476,8 @@
           "style":{
             "fontName":"'华文细黑 Regular', '华文细黑'",
             "location":{
-              "x":40,
-              "y":404},
+              "x":30,
+              "y":394},
             "size":{
               "width":86,
               "height":18}},
@@ -499,8 +493,8 @@
               "style":{
                 "fontName":"'华文细黑 Regular', '华文细黑'",
                 "location":{
-                  "x":40,
-                  "y":404},
+                  "x":30,
+                  "y":394},
                 "size":{
                   "width":86,
                   "height":18}},
@@ -516,8 +510,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":40,
-              "y":430},
+              "x":30,
+              "y":420},
             "size":{
               "width":118,
               "height":18}},
@@ -532,8 +526,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":40,
-                  "y":430},
+                  "x":30,
+                  "y":420},
                 "size":{
                   "width":118,
                   "height":18}},
@@ -550,8 +544,8 @@
           "style":{
             "fontName":"'华文细黑 Regular', '华文细黑'",
             "location":{
-              "x":40,
-              "y":458},
+              "x":30,
+              "y":448},
             "size":{
               "width":105,
               "height":18}},
@@ -567,8 +561,8 @@
               "style":{
                 "fontName":"'华文细黑 Regular', '华文细黑'",
                 "location":{
-                  "x":40,
-                  "y":458},
+                  "x":30,
+                  "y":448},
                 "size":{
                   "width":105,
                   "height":18}},
@@ -585,8 +579,8 @@
           "style":{
             "fontName":"'华文细黑 Regular', '华文细黑'",
             "location":{
-              "x":40,
-              "y":486},
+              "x":30,
+              "y":476},
             "size":{
               "width":92,
               "height":18}},
@@ -602,8 +596,8 @@
               "style":{
                 "fontName":"'华文细黑 Regular', '华文细黑'",
                 "location":{
-                  "x":40,
-                  "y":486},
+                  "x":30,
+                  "y":476},
                 "size":{
                   "width":92,
                   "height":18}},
@@ -624,8 +618,8 @@
               "color":0xFF4D90E7,
               "opacity":1},
             "location":{
-              "x":45,
-              "y":520},
+              "x":35,
+              "y":510},
             "size":{
               "width":82,
               "height":28},
@@ -649,8 +643,8 @@
                   "color":0xFF4D90E7,
                   "opacity":1},
                 "location":{
-                  "x":45,
-                  "y":520},
+                  "x":35,
+                  "y":510},
                 "size":{
                   "width":82,
                   "height":28},
@@ -670,8 +664,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":40,
-              "y":263},
+              "x":30,
+              "y":253},
             "size":{
               "width":142,
               "height":18}},
@@ -686,8 +680,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":40,
-                  "y":263},
+                  "x":30,
+                  "y":253},
                 "size":{
                   "width":142,
                   "height":18}},
@@ -703,8 +697,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":40,
-              "y":291},
+              "x":30,
+              "y":281},
             "size":{
               "width":142,
               "height":18}},
@@ -719,8 +713,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":40,
-                  "y":291},
+                  "x":30,
+                  "y":281},
                 "size":{
                   "width":142,
                   "height":18}},
@@ -736,8 +730,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":40,
-              "y":319},
+              "x":30,
+              "y":309},
             "size":{
               "width":161,
               "height":19}},
@@ -752,8 +746,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":40,
-                  "y":319},
+                  "x":30,
+                  "y":309},
                 "size":{
                   "width":161,
                   "height":19}},
@@ -769,8 +763,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":40,
-              "y":347},
+              "x":30,
+              "y":337},
             "size":{
               "width":264,
               "height":19}},
@@ -785,8 +779,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":40,
-                  "y":347},
+                  "x":30,
+                  "y":337},
                 "size":{
                   "width":264,
                   "height":19}},
@@ -802,8 +796,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":40,
-              "y":375},
+              "x":30,
+              "y":365},
             "size":{
               "width":104,
               "height":19}},
@@ -818,8 +812,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":40,
-                  "y":375},
+                  "x":30,
+                  "y":365},
                 "size":{
                   "width":104,
                   "height":19}},
@@ -840,8 +834,8 @@
               "color":0xFF4D90E7,
               "opacity":1},
             "location":{
-              "x":132,
-              "y":520},
+              "x":122,
+              "y":510},
             "size":{
               "width":82,
               "height":28},
@@ -865,8 +859,8 @@
                   "color":0xFF4D90E7,
                   "opacity":1},
                 "location":{
-                  "x":132,
-                  "y":520},
+                  "x":122,
+                  "y":510},
                 "size":{
                   "width":82,
                   "height":28},
@@ -891,8 +885,8 @@
               "color":0xFF4D90E7,
               "opacity":1},
             "location":{
-              "x":219,
-              "y":520},
+              "x":209,
+              "y":510},
             "size":{
               "width":82,
               "height":28},
@@ -916,8 +910,8 @@
                   "color":0xFF4D90E7,
                   "opacity":1},
                 "location":{
-                  "x":219,
-                  "y":520},
+                  "x":209,
+                  "y":510},
                 "size":{
                   "width":82,
                   "height":28},
@@ -942,8 +936,8 @@
               "color":0xFF4D90E7,
               "opacity":1},
             "location":{
-              "x":306,
-              "y":520},
+              "x":296,
+              "y":510},
             "size":{
               "width":82,
               "height":28},
@@ -967,8 +961,8 @@
                   "color":0xFF4D90E7,
                   "opacity":1},
                 "location":{
-                  "x":306,
-                  "y":520},
+                  "x":296,
+                  "y":510},
                 "size":{
                   "width":82,
                   "height":28},

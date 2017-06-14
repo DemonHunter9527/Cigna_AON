@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"健康告知v1_1.html",
-  "generationDate":new Date(1497425223881.84),
+  "generationDate":new Date(1497427581801.84),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -36,9 +36,6 @@
           "styleType":"buttonShape",
           "visible":true,
           "style":{
-            "location":{
-              "x":10,
-              "y":10},
             "size":{
               "width":414,
               "height":750}},
@@ -52,9 +49,6 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "location":{
-                  "x":10,
-                  "y":10},
                 "size":{
                   "width":414,
                   "height":750}},
@@ -73,8 +67,8 @@
               "fillType":"solid",
               "color":0xFFEEEEEE},
             "location":{
-              "x":10,
-              "y":68},
+              "x":0,
+              "y":58},
             "size":{
               "width":414,
               "height":92},
@@ -93,8 +87,8 @@
                   "fillType":"solid",
                   "color":0xFFEEEEEE},
                 "location":{
-                  "x":10,
-                  "y":68},
+                  "x":0,
+                  "y":58},
                 "size":{
                   "width":414,
                   "height":92},
@@ -117,8 +111,8 @@
               "color":0xFFFF0000,
               "opacity":1},
             "location":{
-              "x":28,
-              "y":90},
+              "x":18,
+              "y":80},
             "size":{
               "width":379,
               "height":19}},
@@ -139,8 +133,8 @@
                   "color":0xFFFF0000,
                   "opacity":1},
                 "location":{
-                  "x":28,
-                  "y":90},
+                  "x":18,
+                  "y":80},
                 "size":{
                   "width":379,
                   "height":19}},
@@ -161,8 +155,8 @@
               "color":0xFF1E1E1E,
               "opacity":1},
             "location":{
-              "x":75,
-              "y":119},
+              "x":65,
+              "y":109},
             "size":{
               "width":285,
               "height":18}},
@@ -182,8 +176,8 @@
                   "color":0xFF1E1E1E,
                   "opacity":1},
                 "location":{
-                  "x":75,
-                  "y":119},
+                  "x":65,
+                  "y":109},
                 "size":{
                   "width":285,
                   "height":18}},
@@ -200,8 +194,8 @@
           "style":{
             "fontSize":"14px",
             "location":{
-              "x":20,
-              "y":170},
+              "x":10,
+              "y":160},
             "size":{
               "width":393,
               "height":76}},
@@ -217,8 +211,8 @@
               "style":{
                 "fontSize":"14px",
                 "location":{
-                  "x":20,
-                  "y":170},
+                  "x":10,
+                  "y":160},
                 "size":{
                   "width":393,
                   "height":76}},
@@ -234,8 +228,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":20,
-              "y":261},
+              "x":10,
+              "y":251},
             "size":{
               "width":391,
               "height":10},
@@ -257,8 +251,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":20,
-              "y":368},
+              "x":10,
+              "y":358},
             "size":{
               "width":391,
               "height":10},
@@ -280,8 +274,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":20,
-              "y":475},
+              "x":10,
+              "y":465},
             "size":{
               "width":391,
               "height":10},
@@ -303,8 +297,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":20,
-              "y":582},
+              "x":10,
+              "y":572},
             "size":{
               "width":391,
               "height":10},
@@ -329,8 +323,8 @@
               "fillType":"solid",
               "color":0xFF26C6DA},
             "location":{
-              "x":10,
-              "y":720},
+              "x":0,
+              "y":710},
             "size":{
               "width":208,
               "height":40},
@@ -351,8 +345,8 @@
                   "fillType":"solid",
                   "color":0xFF26C6DA},
                 "location":{
-                  "x":10,
-                  "y":720},
+                  "x":0,
+                  "y":710},
                 "size":{
                   "width":208,
                   "height":40},
@@ -374,8 +368,8 @@
               "fillType":"solid",
               "color":0xFF4D90E7},
             "location":{
-              "x":216,
-              "y":720},
+              "x":206,
+              "y":710},
             "size":{
               "width":208,
               "height":40},
@@ -396,8 +390,8 @@
                   "fillType":"solid",
                   "color":0xFF4D90E7},
                 "location":{
-                  "x":216,
-                  "y":720},
+                  "x":206,
+                  "y":710},
                 "size":{
                   "width":208,
                   "height":40},
@@ -406,6 +400,21 @@
                   "color":0x797979}},
               "adaptiveStyles":{
 }}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 完善被保人信息V1.1",
+                      "target":{
+                        "targetType":"page",
+                        "url":"完善被保人信息v1_1.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
           "images":{
             "normal~":"images/健康告知v1_1/u16.png"}},
 {
@@ -422,8 +431,8 @@
               "color":0xFFFFFFFF,
               "opacity":1},
             "location":{
-              "x":288,
-              "y":729},
+              "x":278,
+              "y":719},
             "size":{
               "width":65,
               "height":22}},
@@ -444,8 +453,8 @@
                   "color":0xFFFFFFFF,
                   "opacity":1},
                 "location":{
-                  "x":288,
-                  "y":729},
+                  "x":278,
+                  "y":719},
                 "size":{
                   "width":65,
                   "height":22}},
@@ -467,8 +476,8 @@
               "color":0xFFFFFFFF,
               "opacity":1},
             "location":{
-              "x":82,
-              "y":729},
+              "x":72,
+              "y":719},
             "size":{
               "width":65,
               "height":22}},
@@ -489,8 +498,8 @@
                   "color":0xFFFFFFFF,
                   "opacity":1},
                 "location":{
-                  "x":82,
-                  "y":729},
+                  "x":72,
+                  "y":719},
                 "size":{
                   "width":65,
                   "height":22}},
@@ -508,8 +517,8 @@
             "fontName":"'华文细黑 Regular', '华文细黑'",
             "fontSize":"14px",
             "location":{
-              "x":20,
-              "y":281},
+              "x":10,
+              "y":271},
             "size":{
               "width":393,
               "height":76}},
@@ -526,8 +535,8 @@
                 "fontName":"'华文细黑 Regular', '华文细黑'",
                 "fontSize":"14px",
                 "location":{
-                  "x":20,
-                  "y":281},
+                  "x":10,
+                  "y":271},
                 "size":{
                   "width":393,
                   "height":76}},
@@ -545,8 +554,8 @@
             "fontName":"'华文细黑 Regular', '华文细黑'",
             "fontSize":"14px",
             "location":{
-              "x":20,
-              "y":389},
+              "x":10,
+              "y":379},
             "size":{
               "width":393,
               "height":76}},
@@ -563,8 +572,8 @@
                 "fontName":"'华文细黑 Regular', '华文细黑'",
                 "fontSize":"14px",
                 "location":{
-                  "x":20,
-                  "y":389},
+                  "x":10,
+                  "y":379},
                 "size":{
                   "width":393,
                   "height":76}},
@@ -582,8 +591,8 @@
             "fontName":"'华文细黑 Regular', '华文细黑'",
             "fontSize":"14px",
             "location":{
-              "x":20,
-              "y":496},
+              "x":10,
+              "y":486},
             "size":{
               "width":393,
               "height":76}},
@@ -600,8 +609,8 @@
                 "fontName":"'华文细黑 Regular', '华文细黑'",
                 "fontSize":"14px",
                 "location":{
-                  "x":20,
-                  "y":496},
+                  "x":10,
+                  "y":486},
                 "size":{
                   "width":393,
                   "height":76}},
@@ -619,8 +628,8 @@
             "fontName":"'华文细黑 Regular', '华文细黑'",
             "fontSize":"14px",
             "location":{
-              "x":20,
-              "y":610},
+              "x":10,
+              "y":600},
             "size":{
               "width":393,
               "height":76}},
@@ -637,8 +646,8 @@
                 "fontName":"'华文细黑 Regular', '华文细黑'",
                 "fontSize":"14px",
                 "location":{
-                  "x":20,
-                  "y":610},
+                  "x":10,
+                  "y":600},
                 "size":{
                   "width":393,
                   "height":76}},
