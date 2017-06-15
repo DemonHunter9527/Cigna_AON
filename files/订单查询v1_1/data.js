@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"订单查询v1_1.html",
-  "generationDate":new Date(1497488613252.44),
+  "generationDate":new Date(1497503013056.44),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -618,10 +618,10 @@
               "color":0xFF4D90E7,
               "opacity":1},
             "location":{
-              "x":35,
+              "x":103,
               "y":510},
             "size":{
-              "width":82,
+              "width":62,
               "height":28},
             "borderFill":{
               "fillType":"solid",
@@ -643,10 +643,10 @@
                   "color":0xFF4D90E7,
                   "opacity":1},
                 "location":{
-                  "x":35,
+                  "x":103,
                   "y":510},
                 "size":{
-                  "width":82,
+                  "width":62,
                   "height":28},
                 "borderFill":{
                   "fillType":"solid",
@@ -834,10 +834,10 @@
               "color":0xFF4D90E7,
               "opacity":1},
             "location":{
-              "x":122,
+              "x":30,
               "y":510},
             "size":{
-              "width":82,
+              "width":62,
               "height":28},
             "borderFill":{
               "fillType":"solid",
@@ -859,10 +859,10 @@
                   "color":0xFF4D90E7,
                   "opacity":1},
                 "location":{
-                  "x":122,
+                  "x":30,
                   "y":510},
                 "size":{
-                  "width":82,
+                  "width":62,
                   "height":28},
                 "borderFill":{
                   "fillType":"solid",
@@ -885,10 +885,10 @@
               "color":0xFF4D90E7,
               "opacity":1},
             "location":{
-              "x":209,
+              "x":175,
               "y":510},
             "size":{
-              "width":82,
+              "width":62,
               "height":28},
             "borderFill":{
               "fillType":"solid",
@@ -910,10 +910,10 @@
                   "color":0xFF4D90E7,
                   "opacity":1},
                 "location":{
-                  "x":209,
+                  "x":175,
                   "y":510},
                 "size":{
-                  "width":82,
+                  "width":62,
                   "height":28},
                 "borderFill":{
                   "fillType":"solid",
@@ -936,10 +936,10 @@
               "color":0xFF4D90E7,
               "opacity":1},
             "location":{
-              "x":296,
+              "x":320,
               "y":510},
             "size":{
-              "width":82,
+              "width":62,
               "height":28},
             "borderFill":{
               "fillType":"solid",
@@ -961,10 +961,61 @@
                   "color":0xFF4D90E7,
                   "opacity":1},
                 "location":{
-                  "x":296,
+                  "x":320,
                   "y":510},
                 "size":{
-                  "width":82,
+                  "width":62,
+                  "height":28},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF4D90E7},
+                "cornerRadiusTopLeft":"4"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/订单查询v1_1/u33.png"}},
+{
+          "id":"6360f8ccc6e544d1861562ea0150ad1f",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontSize":"14px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF4D90E7,
+              "opacity":1},
+            "location":{
+              "x":248,
+              "y":510},
+            "size":{
+              "width":62,
+              "height":28},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF4D90E7},
+            "cornerRadiusTopLeft":"4"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5731c82e4138408aadd1c69590f632a4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"14px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF4D90E7,
+                  "opacity":1},
+                "location":{
+                  "x":248,
+                  "y":510},
+                "size":{
+                  "width":62,
                   "height":28},
                 "borderFill":{
                   "fillType":"solid",
@@ -1078,4 +1129,8 @@
     "b13bf295e7114bcf989044ab63ef573b":{
       "scriptId":"u49"},
     "e58ea116fed84e698dac2418647fdc65":{
-      "scriptId":"u50"}}});
+      "scriptId":"u50"},
+    "6360f8ccc6e544d1861562ea0150ad1f":{
+      "scriptId":"u51"},
+    "5731c82e4138408aadd1c69590f632a4":{
+      "scriptId":"u52"}}});

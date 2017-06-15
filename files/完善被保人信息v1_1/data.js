@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"完善被保人信息v1_1.html",
-  "generationDate":new Date(1497488613134.44),
+  "generationDate":new Date(1497503012919.44),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -755,10 +755,10 @@
             "fontSize":"14px",
             "fontWeight":"700",
             "location":{
-              "x":66,
-              "y":2054},
+              "x":28,
+              "y":2071},
             "size":{
-              "width":301,
+              "width":376,
               "height":19}},
           "adaptiveStyles":{
 },
@@ -774,10 +774,10 @@
                 "fontSize":"14px",
                 "fontWeight":"700",
                 "location":{
-                  "x":66,
-                  "y":2054},
+                  "x":28,
+                  "y":2071},
                 "size":{
-                  "width":301,
+                  "width":376,
                   "height":19}},
               "adaptiveStyles":{
 }}],
@@ -1389,8 +1389,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":47,
-              "y":2056},
+              "x":9.5,
+              "y":2073},
             "size":{
               "width":20,
               "height":16}},
@@ -1405,8 +1405,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":47,
-                  "y":2056},
+                  "x":9.5,
+                  "y":2073},
                 "size":{
                   "width":20,
                   "height":16}},
@@ -4693,7 +4693,7 @@
               "x":110,
               "y":1393},
             "size":{
-              "width":117,
+              "width":33,
               "height":19}},
           "adaptiveStyles":{
 },
@@ -4710,7 +4710,7 @@
                   "x":110,
                   "y":1393},
                 "size":{
-                  "width":117,
+                  "width":33,
                   "height":19}},
               "adaptiveStyles":{
 }}],
@@ -4867,76 +4867,6 @@
 }}],
           "images":{
             "normal~":"resources/images/transparent.gif"}},
-{
-          "id":"a7daa5acfbc3432cb162d5040789b2e5",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"paragraph",
-          "visible":true,
-          "style":{
-            "fontName":"'华文细黑 Bold', '华文细黑'",
-            "fontSize":"14px",
-            "fontWeight":"700",
-            "location":{
-              "x":66,
-              "y":2094},
-            "size":{
-              "width":301,
-              "height":19}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"1880899d8b9b43239e21e0ebc4a4d0ff",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "fontName":"'华文细黑 Bold', '华文细黑'",
-                "fontSize":"14px",
-                "fontWeight":"700",
-                "location":{
-                  "x":66,
-                  "y":2094},
-                "size":{
-                  "width":301,
-                  "height":19}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"resources/images/transparent.gif"}},
-{
-          "id":"313a67f50e0f441588a0d650681e8e0a",
-          "label":"",
-          "type":"checkbox",
-          "styleType":"checkbox",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":47,
-              "y":2096},
-            "size":{
-              "width":20,
-              "height":16}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"7a989a69ac804f76b338601492e09faf",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":47,
-                  "y":2096},
-                "size":{
-                  "width":20,
-                  "height":16}},
-              "adaptiveStyles":{
-}}]},
 {
           "id":"03be1da3866b48e096be02709740f600",
           "label":"",
@@ -5552,25 +5482,17 @@
       "scriptId":"u226"},
     "992070c95c8d48968da6c6329bee2550":{
       "scriptId":"u227"},
-    "a7daa5acfbc3432cb162d5040789b2e5":{
-      "scriptId":"u228"},
-    "1880899d8b9b43239e21e0ebc4a4d0ff":{
-      "scriptId":"u229"},
-    "313a67f50e0f441588a0d650681e8e0a":{
-      "scriptId":"u230"},
-    "7a989a69ac804f76b338601492e09faf":{
-      "scriptId":"u231"},
     "03be1da3866b48e096be02709740f600":{
-      "scriptId":"u232"},
+      "scriptId":"u228"},
     "49955dd463474f86b7e48cfa3af5f312":{
-      "scriptId":"u233"},
+      "scriptId":"u229"},
     "548a74f475954dbe8c26209aa2536518":{
-      "scriptId":"u234"},
+      "scriptId":"u230"},
     "6c33af22efe24572882a3baba2dd719d":{
-      "scriptId":"u235"},
+      "scriptId":"u231"},
     "63d3ea6eb7f44f77a1a4caba362facc7":{
-      "scriptId":"u236"},
+      "scriptId":"u232"},
     "b559588772b1470bafa4fbb64e2913fe":{
-      "scriptId":"u237"},
+      "scriptId":"u233"},
     "a8a4a6d0454649bb96b6496f854f4297":{
-      "scriptId":"u238"}}});
+      "scriptId":"u234"}}});
