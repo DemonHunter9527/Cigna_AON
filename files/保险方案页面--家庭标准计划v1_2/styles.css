@@ -3647,9 +3647,10 @@
   word-wrap:break-word;
 }
 #u221 {
-  position:absolute;
-  left:0px;
-  top:2168px;
+  position:fixed;
+  left:50%;
+  margin-left:-207px;
+  top:686px;
 }
 #u221_state0 {
   position:relative;

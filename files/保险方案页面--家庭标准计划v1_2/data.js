@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"保险方案页面--家庭标准计划v1_2.html",
-  "generationDate":new Date(1497839858455.67),
+  "generationDate":new Date(1497841299849.32),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -5325,12 +5325,17 @@
           "style":{
             "location":{
               "x":0,
-              "y":2168},
+              "y":686},
             "size":{
               "width":414,
               "height":50}},
           "adaptiveStyles":{
 },
+          "fixedHorizontal":"center",
+          "fixedMarginHorizontal":0,
+          "fixedVertical":"top",
+          "fixedMarginVertical":686,
+          "fixedKeepInFront":true,
           "percentWidth":1,
           "scrollbars":"none",
           "fitToContent":true,
