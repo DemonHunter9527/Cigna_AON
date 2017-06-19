@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"保险方案页面--家庭标准计划v1_2.html",
-  "generationDate":new Date(1497839509503.93),
+  "generationDate":new Date(1497839563029.29),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -5667,6 +5667,7 @@
                               "description":"在 当前窗口 打开 健康告知V1.1",
                               "target":{
                                 "targetType":"page",
+                                "url":"健康告知v1_1.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,

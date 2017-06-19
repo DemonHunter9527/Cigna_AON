@@ -15,7 +15,19 @@
     "rootNodes":[{
         "pageName":"保险方案页面--家庭标准计划V1.2",
         "type":"Wireframe",
-        "url":"保险方案页面--家庭标准计划v1_2.html"}]},
+        "url":"保险方案页面--家庭标准计划v1_2.html"},
+{
+        "pageName":"健康告知V1.1",
+        "type":"Wireframe",
+        "url":"健康告知v1_1.html"},
+{
+        "pageName":"完善被保人信息V1.1",
+        "type":"Wireframe",
+        "url":"完善被保人信息v1_1.html"},
+{
+        "pageName":"订单查询V1.1",
+        "type":"Wireframe",
+        "url":"订单查询v1_1.html"}]},
   "globalVariables":{
     "onloadvariable":""},
   "defaultAdaptiveView":{
