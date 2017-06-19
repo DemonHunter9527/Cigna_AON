@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"健康告知v1_1.html",
-  "generationDate":new Date(1497846043992.53),
+  "generationDate":new Date(1497846645370.66),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
