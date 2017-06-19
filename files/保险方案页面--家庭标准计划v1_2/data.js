@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"保险方案页面--家庭标准计划v1_2.html",
-  "generationDate":new Date(1497839563029.29),
+  "generationDate":new Date(1497839858455.67),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -5325,7 +5325,7 @@
           "style":{
             "location":{
               "x":0,
-              "y":686},
+              "y":2168},
             "size":{
               "width":414,
               "height":50}},

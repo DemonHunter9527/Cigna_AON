@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"完善被保人信息v1_1.html",
-  "generationDate":new Date(1497839563439.33),
+  "generationDate":new Date(1497839858837.7),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
