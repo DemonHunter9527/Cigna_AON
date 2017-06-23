@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"健康告知v1_1.html",
-  "generationDate":new Date(1497846645370.66),
+  "generationDate":new Date(1498209064376.66),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -681,10 +681,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 完善被保人信息V1.1",
+                      "description":"在 当前窗口 打开 订单查询V2.0",
                       "target":{
                         "targetType":"page",
-                        "url":"完善被保人信息v1_1.html",
+                        "url":"订单查询v2_0.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
