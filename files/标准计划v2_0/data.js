@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"标准计划v2_0.html",
-  "generationDate":new Date(1498209064026.66),
+  "generationDate":new Date(1498211829015.66),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

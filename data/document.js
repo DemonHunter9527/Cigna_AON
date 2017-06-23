@@ -23,7 +23,11 @@
 {
         "pageName":"订单查询V2.0",
         "type":"Wireframe",
-        "url":"订单查询v2_0.html"}]},
+        "url":"订单查询v2_0.html"},
+{
+        "pageName":"订单方案详情",
+        "type":"Wireframe",
+        "url":"订单方案详情.html"}]},
   "globalVariables":{
     "onloadvariable":""},
   "defaultAdaptiveView":{
