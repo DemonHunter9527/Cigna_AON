@@ -2,11 +2,13 @@
 // ******* Internet Explorer MANAGER ******** //
 //this is to handle all the stupid IE Stuff
 $axure.internal(function($ax) {
+    if(!IE_10_AND_BELOW) return;
 
-    if(!$.browser.msie) return;
+    var _ieColorManager = {};
+    if(Number(BROWSER_VERSION) < 9) $ax.ieColorManager = _ieColorManager;
 
     var _applyIEFixedPosition = function() {
-        if(Number($.browser.version) >= 7) return;
+        if(Number(BROWSER_VERSION) >= 7) return;
 
         $axure(function(diagramObject) { return diagramObject.fixedVertical; }).$()
             .appendTo($('body'))
@@ -24,8 +26,9 @@ $axure.internal(function($ax) {
                     var newLeft = 0;
                     var newTop = 0;
                     var elementQuery = $('#' + elementId);
-                    var width = elementQuery.width();
-                    var height = elementQuery.height();
+                    var elementAxQuery = $ax('#' + elementId);
+                    var width = elementAxQuery.width();
+                    var height = elementAxQuery.height();
 
                     var horz = diagramObject.fixedHorizontal;
                     if(horz == 'left') {
@@ -53,20 +56,52 @@ $axure.internal(function($ax) {
         handleScroll();
     };
 
+    var _applyBackground = function() {
+        if(Number(BROWSER_VERSION) >= 9) return;
+
+        var styleChain = $ax.adaptive.getAdaptiveIdChain($ax.adaptive.currentViewId);
+        var argb = _getArgb($ax.pageData.page, styleChain);
+        var hexColor = _getHexColor(argb, false);
+        if(hexColor) $('body').css('background-color', hexColor);
+
+        _applyBackgroundToQuery($ax('*'));
+    };
+
+    var _applyBackgroundToQuery = function(query) {
+        if(Number(BROWSER_VERSION) >= 9) return;
+
+        var styleChain = $ax.adaptive.getAdaptiveIdChain($ax.adaptive.currentViewId);
+        query.each(function(obj, elementId) {
+            if ($ax.public.fn.IsDynamicPanel(obj.type)) {
+                var stateCount = obj.diagrams.length;
+                for(var j = 0; j < stateCount; j++) {
+                    var stateId = $ax.repeater.applySuffixToElementId(elementId, '_state' + j);
+                    var argb = _getArgb(obj.diagrams[j], styleChain);
+                    var hexColor = _getHexColor(argb, true);
+                    if(hexColor) $jobj(stateId).css('background-color', hexColor);
+                }
+            } else if ($ax.public.fn.IsRepeater(obj.type)) {
+
+            }
+        });
+    };
+    _ieColorManager.applyBackground = _applyBackgroundToQuery;
+
+    var _getArgb = function(diagram, styleChain) {
+        var argb = undefined;
+        for(var i = 0; i < styleChain.length && !argb; i++) {
+            var style = diagram.adaptiveStyles[styleChain[i]];
+            argb = style.fill && style.fill.color;
+        }
+        if(!argb) argb = diagram.style.fill.color;
+        return argb;
+    };
+
     var gMult = 256;
     var rMult = gMult * 256;
     var aMult = rMult * 256;
-    var _applyBackground = function() {
-        if(Number($.browser.version) >= 9) return;
 
-        var argb = undefined;
-        var styleChain = $ax.adaptive.getAdaptiveIdChain($ax.adaptive.currentViewId);
-        for(var i = 0; i < styleChain.length && !argb; i++) {
-            var style = $ax.pageData.page.adaptiveStyles[styleChain[i]];
-            argb = style.fill && style.fill.color;
-        }
-        if(!argb) argb = $ax.pageData.page.style.fill.color;
-
+    var _getHexColor = function(argb, allowWhite) {
         var a = Math.floor(argb / aMult);
         argb -= a * aMult;
 
@@ -76,12 +111,20 @@ $axure.internal(function($ax) {
         var g = Math.floor(argb / gMult);
         var b = argb - g * gMult;
 
+        return _getColorFromArgb(a, r, g, b, allowWhite);
+    };
+
+    var _getColorFromArgb = function(a, r, g, b, allowWhite) {
+        if(Number(BROWSER_VERSION) >= 9) return undefined;
+
         //convert the color with alpha to a color with no alpha (assuming white background)
         r = Math.min((r * a) / 255 + 255 - a, 255);
         g = Math.min((g * a) / 255 + 255 - a, 255);
         b = Math.min((b * a) / 255 + 255 - a, 255);
 
-        if(r == 255 && g == 255 && b == 255) return;
+        if(a == 0) return undefined;
+        if(!allowWhite && (r == 255 && g == 255 && b == 255)) return undefined;
+
         var color = '#';
         color += Math.floor(r / 16).toString(16);
         color += Math.floor(r % 16).toString(16);
@@ -89,8 +132,9 @@ $axure.internal(function($ax) {
         color += Math.floor(g % 16).toString(16);
         color += Math.floor(b / 16).toString(16);
         color += Math.floor(b % 16).toString(16);
-        $('body').css('background-color', color);
+        return color;
     };
+    _ieColorManager.getColorFromArgb = _getColorFromArgb;
 
     var getIEOffset = function(transform, rect) {
         var translatedVertexes = [
@@ -119,7 +163,7 @@ $axure.internal(function($ax) {
     };
 
     var _applyIERotation = function() {
-        if(Number($.browser.version) >= 9) return;
+        if(Number(BROWSER_VERSION) >= 9) return;
 
         $axure(function(diagramObject) {
             return ((diagramObject.style.rotation && Math.abs(diagramObject.style.rotation) > 0.1)
@@ -128,21 +172,23 @@ $axure.internal(function($ax) {
         }).each(function(diagramObject, elementId) {
             var rotation = diagramObject.style.rotation || 0;
             var $element = $('#' + elementId);
-            var width = $element.width();
-            var height = $element.height();
+            var axElement = $ax('#' + elementId);
+            var width = axElement.width();
+            var height = axElement.height();
             var originX = width / 2;
             var originY = height / 2;
 
             var shapeIeOffset;
             $element.children().each(function() {
                 var $child = $(this);
-                var childWidth = $child.width();
-                var childHeight = $child.height() + $child.position().top;
+                var axChild = $ax('#' + $child.attr('id'));
+                var childWidth = axChild.width();
+                var childHeight = axChild.height() + $child.position().top;
                 var centerX = $child.position().left + (childWidth / 2);
                 var centerY = $child.position().top + (childHeight / 2);
                 var deltaX = centerX - originX;
                 var deltaY = centerY - originY;
-                
+
                 var effectiveRotation = rotation;
                 var textObject = $ax.getObjectFromElementId($child.attr('id'));
                 if(textObject) {
@@ -163,7 +209,7 @@ $axure.internal(function($ax) {
                     shapeIeOffset = ieOffset;
                 } else {
                     // This is a close approximation, but not exact
-                    if (diagramObject.style.verticalAlignment != 'top') ieOffset.y -= shapeIeOffset.y + Math.abs(shapeIeOffset.x);
+                    if(diagramObject.style.verticalAlignment != 'top') ieOffset.y -= shapeIeOffset.y + Math.abs(shapeIeOffset.x);
                 }
 
                 $child.css("margin-left", -ieOffset.x - deltaX + p.x).css("margin-top", -ieOffset.y - deltaY + p.y);
@@ -172,22 +218,22 @@ $axure.internal(function($ax) {
     };
 
     var _fixIEStretchBackground = function() {
-        if(Number($.browser.version) >= 9) return;
+        if(Number(BROWSER_VERSION) >= 9) return;
         var pageStyle = $ax.adaptive.getPageStyle();
-        if(!pageStyle.imageRepeat) return;
-        //if(!$ax.pageData.page.stretch) return;
-        var viewId = $ax.adaptive.currentViewId;
-        var imageInfo = viewId ? $ax.pageData.viewIdToBackgroundImageInfo && $ax.pageData.viewIdToBackgroundImageInfo[viewId] : $ax.pageData.defaultBackgroundImageInfo;
+        if(!pageStyle.imageRepeat || pageStyle.imageRepeat == 'auto') return;
 
         $('body').css('background-image', 'none');
-        if($('#bg_img').length == 0) $('body').append('<img id="bg_img"></img>');
-        var path = (imageInfo && imageInfo.path) || '';
-        $('#bg_img').attr('src', path).css('position', 'fixed').css('z-index', '-10000');
-        _resizeIEBackground();
+        var viewId = $ax.adaptive.currentViewId;
+        var imageInfo = viewId ? $ax.pageData.viewIdToBackgroundImageInfo && $ax.pageData.viewIdToBackgroundImageInfo[viewId] : $ax.pageData.defaultBackgroundImageInfo;
+        if(imageInfo && imageInfo.path) {
+            if($('#bg_img').length == 0) $('body').append('<img id="bg_img"/>');
+            $('#bg_img').attr('src', imageInfo.path).css('position', 'fixed').css('z-index', '-10000');
+            _resizeIEBackground();
+        } else $('#bg_img').remove();
     };
 
     var _resizeIEBackground = function() {
-        if(Number($.browser.version) >= 9) return;
+        if(Number(BROWSER_VERSION) >= 9) return;
         //var page = $ax.pageData.page;
         var viewId = $ax.adaptive.currentViewId;
         var pageStyle = $ax.adaptive.getPageStyle();
@@ -245,17 +291,32 @@ $axure.internal(function($ax) {
     };
 
     var _fixInputSize = function() {
-        if(Number($.browser.version) >= 8) return;
+        if(Number(BROWSER_VERSION) >= 8 || window.navigator.userAgent.indexOf("Trident/4.0") > -1) return;
         var inputs = $('input').not(':input[type=button], :input[type=submit], :input[type=radio], :input[type=checkbox]');
         inputs.each(function() {
             var $input = $(this);
-            $input.css('height', ($input.height() - 4 + 'px')).css('width', ($input.width() - 2 + 'px'));
+            var axInput = $ax('#' + $input.attr('id'));
+            $input.css('height', (axInput.height() - 4 + 'px')).css('width', (axInput.width() - 2 + 'px'));
         });
 
-        var textAreas = $('textarea');
+        var textAreas = $($ax.constants.TEXT_AREA_TYPE);
         textAreas.each(function() {
             var $textArea = $(this);
-            $textArea.css('height', ($textArea.height() - 6 + 'px')).css('width', ($textArea.width() - 6 + 'px'));
+            var axText = $ax('#' + $textArea.attr('id'));
+            $textArea.css('height', (axText.height() - 6 + 'px')).css('width', (axText.width() - 6 + 'px'));
+        });
+    };
+
+    var _fixInputBackground = function() {
+        var inputs = $('input').not(':input[type=button], :input[type=submit], :input[type=radio], :input[type=checkbox]');
+        inputs = inputs.add($($ax.constants.TEXT_AREA_TYPE));
+        inputs.each(function() {
+            var $input = $(this);
+            if($input.css('background-color') == 'transparent') {
+                $input.css('background-image', 'url(../../transparent.gif)');
+            } else {
+                $input.css('background-image', '');
+            }
         });
     };
 
@@ -268,6 +329,7 @@ $axure.internal(function($ax) {
         $ax.adaptive.bind('viewChanged', function() {
             _fixIEStretchBackground();
             _applyBackground();
+            _fixInputBackground();
         });
 
 
@@ -275,6 +337,7 @@ $axure.internal(function($ax) {
         _applyIERotation();
         _applyBackground();
         _fixInputSize();
+        _fixInputBackground();
     });
 
 
