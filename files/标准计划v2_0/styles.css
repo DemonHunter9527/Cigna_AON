@@ -17,7 +17,7 @@
   left:0px;
   top:0px;
   width:414px;
-  height:2544px;
+  height:2608px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   box-sizing:border-box;
@@ -34,12 +34,12 @@
   left:0px;
   top:0px;
   width:414px;
-  height:2544px;
+  height:2608px;
 }
 #u1 {
   position:absolute;
   left:2px;
-  top:1264px;
+  top:1296px;
   width:410px;
   visibility:hidden;
   word-wrap:break-word;
@@ -3616,8 +3616,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:316px;
-  height:38px;
+  width:352px;
+  height:105px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -3625,19 +3625,19 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'华文细黑 Bold', '华文细黑 Regular', '华文细黑';
-  font-weight:700;
+  font-family:'华文细黑';
+  font-weight:400;
   font-style:normal;
   font-size:14px;
 }
 #u227 {
   position:absolute;
-  left:59px;
-  top:2389px;
-  width:316px;
-  height:38px;
-  font-family:'华文细黑 Bold', '华文细黑 Regular', '华文细黑';
-  font-weight:700;
+  left:37px;
+  top:2399px;
+  width:352px;
+  height:105px;
+  font-family:'华文细黑';
+  font-weight:400;
   font-style:normal;
   font-size:14px;
 }
@@ -3645,8 +3645,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:316px;
-  white-space:nowrap;
+  width:352px;
+  word-wrap:break-word;
 }
 #u229_img {
   position:absolute;
@@ -3658,7 +3658,7 @@
 #u229 {
   position:absolute;
   left:0px;
-  top:2494px;
+  top:2558px;
   width:208px;
   height:50px;
 }
@@ -3680,7 +3680,7 @@
 #u231 {
   position:absolute;
   left:206px;
-  top:2494px;
+  top:2558px;
   width:208px;
   height:50px;
 }
@@ -3714,7 +3714,7 @@
 #u233 {
   position:absolute;
   left:274px;
-  top:2507px;
+  top:2571px;
   width:73px;
   height:25px;
   font-family:'华文细黑 Regular', '华文细黑';
@@ -3752,7 +3752,7 @@
 #u235 {
   position:absolute;
   left:42px;
-  top:2508px;
+  top:2572px;
   width:11px;
   height:23px;
   font-family:'Times New Roman Negreta', 'Times New Roman Normal', 'Times New Roman';
@@ -3790,7 +3790,7 @@
 #u237 {
   position:absolute;
   left:58px;
-  top:2508px;
+  top:2572px;
   width:66px;
   height:23px;
   font-family:'Times New Roman Negreta', 'Times New Roman Normal', 'Times New Roman';
@@ -3827,8 +3827,8 @@
 }
 #u239 {
   position:absolute;
-  left:124px;
-  top:2508px;
+  left:143px;
+  top:2573px;
   width:43px;
   height:22px;
   font-family:'华文细黑 Bold', '华文细黑 Regular', '华文细黑';
@@ -4064,8 +4064,8 @@
 }
 #u255 {
   position:absolute;
-  left:39px;
-  top:2400px;
+  left:8px;
+  top:2442px;
   width:20px;
   height:16px;
 }
@@ -6030,7 +6030,7 @@
 #u385 {
   position:absolute;
   left:206px;
-  top:2495px;
+  top:2559px;
   width:208px;
   height:49px;
   opacity:0;
